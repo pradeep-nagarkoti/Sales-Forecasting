@@ -1,0 +1,1051 @@
+Month,City,State,Sales,Marketing_Spend,Customer_Count,Product_Category,Email
+2023-11-01,Jaipur,Rajasthan,29878,2790,106,Grocery,hunar.baral@renusharmafoundation.org
+2022-09-01,Delhi,Delhi,43635,4706,270,Home Decor,alia.iyengar@renusharmafoundation.org
+2022-04-01,Lucknow,Uttar Pradesh,48832,2540,453,Electronics,romil.mahajan@renusharmafoundation.org
+2024-05-01,Delhi,Delhi,56112,6382,297,Clothing,fateh.raju@yahoo.com
+2021-02-01,Kolkata,West Bengal,59156,4038,114,Electronics,dharmajan.chaudhary@yahoo.com
+2021-08-01,Jaipur,Rajasthan,80967,8688,125,Clothing,charvi.issac@renusharmafoundation.org
+2022-05-01,Jaipur,Rajasthan,50492,3053,79,Electronics,jayan.acharya@yahoo.com
+2024-07-01,Ahmedabad,Gujarat,53594,4508,195,Books,siya.tank@gmail.com
+2023-12-01,Bengaluru,Karnataka,45115,6624,288,Grocery,hazel.sangha@yahoo.com
+2023-05-01,Bhopal,Madhya Pradesh,40122,3245,262,Books,aarush.chopra@yahoo.com
+2022-05-01,Bhopal,Madhya Pradesh,20288,1252,276,Clothing,samiha.gaba@gmail.com
+2021-02-01,Ahmedabad,Gujarat,60347,7650,424,Books,kimaya.kohli@yahoo.com
+2024-12-01,Delhi,Delhi,49411,4847,210,Electronics,kanav.bhargava@yahoo.com
+2021-03-01,Mumbai,Maharashtra,30943,4338,70,Books,mahika.apte@yahoo.com
+2023-04-01,Hyderabad,Telangana,73451,4023,66,Electronics,miraya.shukla@gmail.com
+2023-11-01,Bengaluru,Karnataka,27395,1649,487,Grocery,hiran.balay@renusharmafoundation.org
+2023-12-01,Bhopal,Madhya Pradesh,46041,3385,494,Clothing,bhamini.ahluwalia@gmail.com
+2024-10-01,Delhi,Delhi,54207,5641,238,Electronics,shray.chatterjee@gmail.com
+2022-08-01,Lucknow,Uttar Pradesh,47675,3129,125,Clothing,arnav.raju@gmail.com
+2021-08-01,Kolkata,West Bengal,51935,2928,492,Electronics,parinaaz.raja@renusharmafoundation.org
+2023-12-01,Hyderabad,Telangana,43004,4167,67,Home Decor,arnav.vaidya@renusharmafoundation.org
+2021-01-01,Kolkata,West Bengal,45533,2593,417,Electronics,zeeshan.bhagat@renusharmafoundation.org
+2023-12-01,Ahmedabad,Gujarat,39913,2513,108,Books,parinaaz.shukla@renusharmafoundation.org
+2021-05-01,Ahmedabad,Gujarat,74722,5616,103,Home Decor,vihaan.kapadia@gmail.com
+2024-10-01,Bengaluru,Karnataka,76140,9232,341,Clothing,kiaan.rajan@renusharmafoundation.org
+2021-02-01,Kolkata,West Bengal,42013,3924,97,Clothing,bhamini.hegde@gmail.com
+2023-07-01,Chennai,Tamil Nadu,45320,6427,183,Books,shray.gole@gmail.com
+2024-08-01,Jaipur,Rajasthan,41913,2149,178,Clothing,vardaniya.jaggi@renusharmafoundation.org
+2023-05-01,Hyderabad,Telangana,49474,4167,261,Books,hansh.vora@yahoo.com
+2024-02-01,Chennai,Tamil Nadu,51492,7308,238,Grocery,nirvi.reddy@yahoo.com
+2021-04-01,Bhopal,Madhya Pradesh,84559,5883,181,Clothing,elakshi.kota@renusharmafoundation.org
+2023-04-01,Ahmedabad,Gujarat,64410,4502,154,Electronics,kanav.butala@renusharmafoundation.org
+2024-07-01,Jaipur,Rajasthan,43230,2351,96,Clothing,biju.gera@yahoo.com
+2021-12-01,Mumbai,Maharashtra,50262,6197,177,Clothing,zoya.tata@yahoo.com
+2021-07-01,Mumbai,Maharashtra,19937,2241,106,Grocery,hrishita.subramaniam@renusharmafoundation.org
+2024-09-01,Hyderabad,Telangana,8905,1258,228,Home Decor,hridaan.chawla@yahoo.com
+2023-09-01,Ahmedabad,Gujarat,26256,2263,480,Electronics,chirag.swamy@gmail.com
+2021-02-01,Hyderabad,Telangana,42420,3837,62,Books,bhamini.tailor@gmail.com
+2024-08-01,Hyderabad,Telangana,65442,9022,297,Clothing,prisha.bose@gmail.com
+2024-06-01,Delhi,Delhi,56071,3259,121,Electronics,azad.bal@renusharmafoundation.org
+2021-09-01,Kolkata,West Bengal,66188,9145,239,Electronics,reyansh.ramaswamy@yahoo.com
+2024-04-01,Bhopal,Madhya Pradesh,48034,3788,81,Clothing,piya.kalla@gmail.com
+2024-10-01,Delhi,Delhi,55277,6875,428,Electronics,dharmajan.virk@gmail.com
+2022-09-01,Chennai,Tamil Nadu,32609,2232,141,Books,lakshay.golla@renusharmafoundation.org
+2021-12-01,Lucknow,Uttar Pradesh,37551,5526,142,Electronics,sana.guha@yahoo.com
+2021-12-01,Hyderabad,Telangana,34222,4969,463,Clothing,renee.vala@gmail.com
+2021-05-01,Bhopal,Madhya Pradesh,60801,4353,430,Books,pranay.gera@renusharmafoundation.org
+2024-11-01,Hyderabad,Telangana,57480,5956,439,Clothing,ojas.goel@renusharmafoundation.org
+2022-12-01,Ahmedabad,Gujarat,50998,6994,141,Clothing,kabir.babu@yahoo.com
+2021-07-01,Hyderabad,Telangana,44197,2830,479,Electronics,hansh.rau@renusharmafoundation.org
+2024-08-01,Hyderabad,Telangana,49211,3985,484,Books,vihaan.mall@yahoo.com
+2023-02-01,Hyderabad,Telangana,56022,4644,418,Grocery,mishti.cheema@renusharmafoundation.org
+2022-04-01,Lucknow,Uttar Pradesh,37978,4918,286,Clothing,zaina.sidhu@renusharmafoundation.org
+2023-01-01,Ahmedabad,Gujarat,46896,5843,223,Clothing,gatik.sanghvi@renusharmafoundation.org
+2024-08-01,Bhopal,Madhya Pradesh,49366,6791,133,Clothing,adira.grewal@yahoo.com
+2024-12-01,Jaipur,Rajasthan,44690,4628,269,Electronics,zoya.johal@gmail.com
+2022-06-01,Bengaluru,Karnataka,32230,2371,386,Clothing,renee.bedi@gmail.com
+2021-01-01,Hyderabad,Telangana,62324,7320,386,Electronics,hridaan.chander@gmail.com
+2021-12-01,Ahmedabad,Gujarat,28004,2365,349,Electronics,anvi.bhardwaj@gmail.com
+2023-02-01,Lucknow,Uttar Pradesh,71185,9715,184,Books,darshit.johal@renusharmafoundation.org
+2023-04-01,Bengaluru,Karnataka,60356,7541,410,Clothing,ela.kari@yahoo.com
+2022-08-01,Hyderabad,Telangana,29781,1741,124,Books,anaya.hayre@gmail.com
+2021-04-01,Delhi,Delhi,36308,5037,160,Electronics,tarini.khosla@yahoo.com
+2023-05-01,Delhi,Delhi,59253,3992,478,Grocery,aarav.deshmukh@yahoo.com
+2023-08-01,Ahmedabad,Gujarat,54304,5235,178,Home Decor,bhamini.karpe@yahoo.com
+2023-03-01,Ahmedabad,Gujarat,59996,7877,399,Clothing,onkar.ramachandran@gmail.com
+2024-02-01,Kolkata,West Bengal,54631,5915,370,Home Decor,inaaya .ramakrishnan@gmail.com
+2024-03-01,Chennai,Tamil Nadu,48352,4783,129,Home Decor,mishti.biswas@gmail.com
+2024-06-01,Ahmedabad,Gujarat,29376,2269,427,Home Decor,kanav.mahal@yahoo.com
+2024-12-01,Delhi,Delhi,55488,5953,121,Electronics,anay.dugar@yahoo.com
+2024-05-01,Chennai,Tamil Nadu,39691,2444,393,Clothing,shaan.datta@yahoo.com
+2024-11-01,Bengaluru,Karnataka,70779,4185,160,Electronics,aarav.talwar@yahoo.com
+2022-10-01,Bengaluru,Karnataka,62967,5832,81,Electronics,lagan.majumdar@gmail.com
+2021-02-01,Hyderabad,Telangana,40131,2267,190,Books,reyansh.maharaj@gmail.com
+2023-01-01,Bengaluru,Karnataka,40099,2461,352,Electronics,vivaan.kapadia@renusharmafoundation.org
+2023-07-01,Ahmedabad,Gujarat,37885,4536,79,Clothing,zeeshan.balay@renusharmafoundation.org
+2023-10-01,Chennai,Tamil Nadu,55687,5659,247,Grocery,nayantara.zacharia@gmail.com
+2023-02-01,Bhopal,Madhya Pradesh,42558,3497,168,Home Decor,yasmin.de@gmail.com
+2023-12-01,Jaipur,Rajasthan,25969,2609,237,Home Decor,parinaaz.joshi@renusharmafoundation.org
+2024-07-01,Ahmedabad,Gujarat,53172,4442,256,Grocery,jayesh.kumer@renusharmafoundation.org
+2023-02-01,Hyderabad,Telangana,48313,6251,61,Home Decor,purab.suri@gmail.com
+2021-09-01,Lucknow,Uttar Pradesh,52463,5169,316,Clothing,umang.shukla@yahoo.com
+2023-12-01,Ahmedabad,Gujarat,39206,2322,296,Clothing,umang.krishnan@gmail.com
+2022-07-01,Bhopal,Madhya Pradesh,34995,4045,140,Electronics,dhanuk.jayaraman@renusharmafoundation.org
+2023-09-01,Kolkata,West Bengal,59211,4398,436,Clothing,divyansh.sarma@yahoo.com
+2021-11-01,Lucknow,Uttar Pradesh,29799,2610,456,Electronics,ritvik.sekhon@gmail.com
+2023-11-01,Mumbai,Maharashtra,62450,6343,318,Clothing,prerak.chaudhuri@renusharmafoundation.org
+2022-01-01,Chennai,Tamil Nadu,46380,3050,285,Home Decor,vanya.tank@yahoo.com
+2024-07-01,Delhi,Delhi,47427,5814,386,Clothing,romil.dey@yahoo.com
+2022-04-01,Bhopal,Madhya Pradesh,75685,4979,231,Electronics,akarsh.chakrabarti@gmail.com
+2021-06-01,Mumbai,Maharashtra,52161,7789,498,Home Decor,divit.ranganathan@yahoo.com
+2022-12-01,Lucknow,Uttar Pradesh,37738,5098,374,Grocery,aaryahi.ravel@yahoo.com
+2022-01-01,Delhi,Delhi,30520,3983,392,Clothing,vivaan.hans@renusharmafoundation.org
+2021-10-01,Bengaluru,Karnataka,62190,7678,340,Grocery,neysa.bumb@renusharmafoundation.org
+2024-08-01,Lucknow,Uttar Pradesh,56193,7321,228,Electronics,taran.trivedi@renusharmafoundation.org
+2022-04-01,Delhi,Delhi,41129,2383,318,Grocery,nishith.chopra@renusharmafoundation.org
+2021-08-01,Chennai,Tamil Nadu,47102,6472,74,Books,mishti.din@yahoo.com
+2021-12-01,Bengaluru,Karnataka,28911,3821,304,Electronics,sumer.jha@gmail.com
+2022-07-01,Ahmedabad,Gujarat,33604,2630,118,Home Decor,indrans.mand@renusharmafoundation.org
+2024-11-01,Lucknow,Uttar Pradesh,66760,9600,170,Electronics,amani.subramanian@gmail.com
+2024-11-01,Ahmedabad,Gujarat,71020,6248,186,Books,saanvi.singhal@renusharmafoundation.org
+2023-09-01,Delhi,Delhi,10112,973,339,Home Decor,mahika.raj@gmail.com
+2022-05-01,Chennai,Tamil Nadu,60936,6613,135,Books,madhav.wason@gmail.com
+2024-06-01,Bhopal,Madhya Pradesh,45697,4086,185,Clothing,ishaan.sura@gmail.com
+2023-04-01,Lucknow,Uttar Pradesh,43046,6403,50,Clothing,khushi.dhingra@renusharmafoundation.org
+2024-07-01,Lucknow,Uttar Pradesh,55005,4181,85,Electronics,divyansh.sethi@renusharmafoundation.org
+2022-06-01,Ahmedabad,Gujarat,53483,4340,56,Books,saanvi.batra@renusharmafoundation.org
+2024-09-01,Mumbai,Maharashtra,52500,3258,255,Home Decor,dhanush.ganesh@yahoo.com
+2023-08-01,Hyderabad,Telangana,61795,8926,57,Grocery,tejas.mander@renusharmafoundation.org
+2024-07-01,Lucknow,Uttar Pradesh,33098,2344,412,Books,arnav.bali@yahoo.com
+2021-01-01,Mumbai,Maharashtra,43412,4947,129,Clothing,aaina.doctor@renusharmafoundation.org
+2024-09-01,Delhi,Delhi,36009,5337,300,Grocery,vihaan.bahri@yahoo.com
+2022-08-01,Mumbai,Maharashtra,83851,9003,165,Grocery,kismat.barad@yahoo.com
+2023-12-01,Bengaluru,Karnataka,69470,6658,178,Home Decor,ritvik.acharya@yahoo.com
+2023-05-01,Delhi,Delhi,47708,3348,382,Books,krish.singh@yahoo.com
+2024-12-01,Delhi,Delhi,57440,7038,226,Clothing,raghav.bhalla@gmail.com
+2021-01-01,Mumbai,Maharashtra,37916,2302,421,Clothing,jayan.gandhi@yahoo.com
+2022-08-01,Bhopal,Madhya Pradesh,79154,11442,124,Books,anvi.cheema@renusharmafoundation.org
+2024-11-01,Jaipur,Rajasthan,37800,5004,72,Home Decor,shlok.bhatia@renusharmafoundation.org
+2023-03-01,Lucknow,Uttar Pradesh,62321,5322,218,Grocery,mishti.balasubramanian@yahoo.com
+2021-07-01,Lucknow,Uttar Pradesh,22636,2881,464,Clothing,oorja.bumb@renusharmafoundation.org
+2023-01-01,Jaipur,Rajasthan,46788,6072,106,Home Decor,yuvraj .halder@yahoo.com
+2023-09-01,Chennai,Tamil Nadu,60800,7974,355,Clothing,adira.bobal@renusharmafoundation.org
+2024-05-01,Mumbai,Maharashtra,32403,4146,407,Home Decor,saanvi.bhatia@yahoo.com
+2021-10-01,Delhi,Delhi,55896,3336,350,Home Decor,mehul.anand@yahoo.com
+2023-01-01,Ahmedabad,Gujarat,55084,7072,296,Electronics,tanya.chanda@yahoo.com
+2024-07-01,Lucknow,Uttar Pradesh,65457,3981,271,Electronics,ojas.kamdar@gmail.com
+2022-04-01,Ahmedabad,Gujarat,42182,3177,293,Clothing,lavanya.sekhon@gmail.com
+2024-06-01,Jaipur,Rajasthan,39387,4321,468,Books,azad.ahuja@gmail.com
+2021-05-01,Chennai,Tamil Nadu,16649,1695,395,Grocery,samaira.bhattacharyya@gmail.com
+2022-04-01,Jaipur,Rajasthan,45316,3293,479,Grocery,yashvi.swaminathan@yahoo.com
+2021-11-01,Chennai,Tamil Nadu,25076,2489,387,Clothing,hrishita.balakrishnan@renusharmafoundation.org
+2024-01-01,Chennai,Tamil Nadu,52891,6499,326,Electronics,sara.sankar@gmail.com
+2021-02-01,Jaipur,Rajasthan,42216,3096,473,Grocery,ishita.sharma@gmail.com
+2022-09-01,Lucknow,Uttar Pradesh,45865,5705,368,Books,yuvraj .agrawal@renusharmafoundation.org
+2022-08-01,Hyderabad,Telangana,54134,3763,174,Books,hunar.jaggi@renusharmafoundation.org
+2022-03-01,Kolkata,West Bengal,64114,9560,224,Grocery,indrajit.karnik@renusharmafoundation.org
+2024-01-01,Bengaluru,Karnataka,49486,7137,362,Home Decor,aarna.sastry@gmail.com
+2021-09-01,Jaipur,Rajasthan,61310,6066,162,Clothing,vardaniya.varughese@gmail.com
+2022-12-01,Delhi,Delhi,47606,5162,179,Books,anaya.bali@gmail.com
+2023-01-01,Bengaluru,Karnataka,48228,7160,430,Home Decor,samarth.badami@yahoo.com
+2024-10-01,Kolkata,West Bengal,45984,4314,274,Grocery,ehsaan.sarma@yahoo.com
+2024-07-01,Kolkata,West Bengal,65255,7918,109,Electronics,vardaniya.sawhney@yahoo.com
+2024-02-01,Chennai,Tamil Nadu,25514,1955,222,Electronics,jayan.agarwal@renusharmafoundation.org
+2023-07-01,Mumbai,Maharashtra,69290,8437,278,Home Decor,neysa.aggarwal@renusharmafoundation.org
+2024-03-01,Bhopal,Madhya Pradesh,78438,11691,432,Books,umang.sundaram@gmail.com
+2023-09-01,Bengaluru,Karnataka,53692,4252,434,Books,elakshi.bains@gmail.com
+2021-03-01,Chennai,Tamil Nadu,38868,5119,374,Home Decor,anvi.kant@renusharmafoundation.org
+2022-10-01,Bengaluru,Karnataka,38829,3579,401,Books,saanvi.dubey@gmail.com
+2023-03-01,Jaipur,Rajasthan,39581,5787,214,Books,lagan.sinha@gmail.com
+2022-08-01,Bhopal,Madhya Pradesh,50459,6480,185,Clothing,ojas.chawla@renusharmafoundation.org
+2024-08-01,Chennai,Tamil Nadu,40346,4908,329,Grocery,myra.barman@gmail.com
+2023-06-01,Mumbai,Maharashtra,35531,4634,131,Electronics,ehsaan.loke@renusharmafoundation.org
+2023-09-01,Delhi,Delhi,43630,3256,448,Clothing,zara.shan@renusharmafoundation.org
+2022-12-01,Jaipur,Rajasthan,49121,3133,313,Clothing,jivika.bhat@renusharmafoundation.org
+2021-09-01,Ahmedabad,Gujarat,16978,1800,410,Grocery,azad.vasa@yahoo.com
+2021-06-01,Jaipur,Rajasthan,38009,5683,252,Books,jiya.kara@yahoo.com
+2022-01-01,Bhopal,Madhya Pradesh,50057,6127,143,Home Decor,veer.karnik@renusharmafoundation.org
+2021-06-01,Jaipur,Rajasthan,72800,3717,432,Clothing,ojas.baral@renusharmafoundation.org
+2024-07-01,Lucknow,Uttar Pradesh,16167,2321,118,Clothing,yasmin.din@gmail.com
+2024-12-01,Hyderabad,Telangana,26888,2991,85,Home Decor,indrajit.deshmukh@yahoo.com
+2023-10-01,Ahmedabad,Gujarat,11258,1307,473,Home Decor,vedika.bobal@yahoo.com
+2021-10-01,Bhopal,Madhya Pradesh,28639,3679,409,Home Decor,arnav.deshmukh@yahoo.com
+2021-06-01,Chennai,Tamil Nadu,43199,5361,151,Electronics,onkar.ganesan@renusharmafoundation.org
+2024-01-01,Hyderabad,Telangana,35531,4738,301,Clothing,diya.brahmbhatt@yahoo.com
+2024-10-01,Delhi,Delhi,37603,2435,211,Clothing,vidur.shere@gmail.com
+2022-11-01,Chennai,Tamil Nadu,67053,4252,106,Home Decor,charvi.krish@yahoo.com
+2022-06-01,Kolkata,West Bengal,37275,4192,400,Clothing,pari.sem@renusharmafoundation.org
+2021-02-01,Lucknow,Uttar Pradesh,59650,6489,312,Grocery,mannat.raval@gmail.com
+2024-10-01,Ahmedabad,Gujarat,66724,7068,194,Clothing,reyansh.badami@gmail.com
+2024-10-01,Chennai,Tamil Nadu,42346,2669,402,Grocery,charvi.yohannan@yahoo.com
+2024-10-01,Lucknow,Uttar Pradesh,66900,3678,248,Electronics,aarav.rajan@gmail.com
+2023-09-01,Bengaluru,Karnataka,63137,3695,208,Grocery,ishita.ravi@renusharmafoundation.org
+2021-06-01,Hyderabad,Telangana,55741,7334,495,Books,mahika.brahmbhatt@renusharmafoundation.org
+2022-03-01,Lucknow,Uttar Pradesh,56159,4148,122,Home Decor,hiran.shroff@yahoo.com
+2021-08-01,Chennai,Tamil Nadu,30732,2158,417,Clothing,kanav.tara@gmail.com
+2022-07-01,Ahmedabad,Gujarat,34082,3834,152,Books,eshani.malhotra@gmail.com
+2022-02-01,Bengaluru,Karnataka,44008,2924,65,Home Decor,manjari.choudhary@gmail.com
+2021-09-01,Mumbai,Maharashtra,36308,3504,235,Grocery,heer.ravel@yahoo.com
+2023-04-01,Mumbai,Maharashtra,29250,3240,341,Books,navya.bassi@yahoo.com
+2024-11-01,Lucknow,Uttar Pradesh,75110,9519,403,Home Decor,baiju.kannan@yahoo.com
+2024-10-01,Lucknow,Uttar Pradesh,50779,5988,266,Electronics,zoya.dalal@yahoo.com
+2021-02-01,Kolkata,West Bengal,74893,5495,72,Electronics,jivin.dora@yahoo.com
+2022-02-01,Bengaluru,Karnataka,24820,1835,162,Home Decor,zain.chana@renusharmafoundation.org
+2024-01-01,Lucknow,Uttar Pradesh,56039,3933,289,Home Decor,dhanush.ganesan@gmail.com
+2021-12-01,Kolkata,West Bengal,64209,7018,91,Electronics,damini.kaur@renusharmafoundation.org
+2021-07-01,Kolkata,West Bengal,50158,6019,382,Grocery,myra.chandra@gmail.com
+2023-09-01,Chennai,Tamil Nadu,57153,4576,93,Electronics,shalv.dani@renusharmafoundation.org
+2023-05-01,Kolkata,West Bengal,49260,5644,448,Books,riya.chad@yahoo.com
+2024-01-01,Mumbai,Maharashtra,61718,5852,430,Books,ritvik.bhandari@renusharmafoundation.org
+2022-02-01,Kolkata,West Bengal,44439,3590,84,Clothing,aaryahi.mammen@gmail.com
+2021-11-01,Ahmedabad,Gujarat,55562,4895,248,Clothing,charvi.venkatesh@yahoo.com
+2024-12-01,Bhopal,Madhya Pradesh,35180,5173,69,Grocery,riaan.handa@yahoo.com
+2021-03-01,Hyderabad,Telangana,36539,3328,459,Electronics,kismat.ben@yahoo.com
+2024-01-01,Delhi,Delhi,49649,3155,182,Electronics,emir.mallick@yahoo.com
+2024-07-01,Bhopal,Madhya Pradesh,64957,9139,305,Clothing,shlok.hans@yahoo.com
+2023-06-01,Ahmedabad,Gujarat,43905,5665,432,Electronics,devansh.char@renusharmafoundation.org
+2022-09-01,Lucknow,Uttar Pradesh,49765,5254,150,Electronics,indrajit.anne@gmail.com
+2024-10-01,Bhopal,Madhya Pradesh,52855,3230,366,Home Decor,miraan.sharaf@gmail.com
+2022-06-01,Lucknow,Uttar Pradesh,33739,2388,269,Electronics,mehul.ravel@renusharmafoundation.org
+2024-07-01,Kolkata,West Bengal,61577,4078,58,Grocery,prisha.chand@renusharmafoundation.org
+2024-04-01,Lucknow,Uttar Pradesh,33538,4308,337,Home Decor,anay.gill@yahoo.com
+2024-09-01,Mumbai,Maharashtra,48916,7008,341,Electronics,bhamini.sengupta@yahoo.com
+2024-12-01,Kolkata,West Bengal,48528,5982,63,Electronics,arnav.chauhan@yahoo.com
+2024-07-01,Bengaluru,Karnataka,69917,6887,296,Clothing,tiya.sarin@yahoo.com
+2021-03-01,Bhopal,Madhya Pradesh,45210,6311,211,Electronics,sara.sankar@gmail.com
+2021-06-01,Bengaluru,Karnataka,43665,4657,363,Grocery,azad.jhaveri@yahoo.com
+2021-05-01,Bengaluru,Karnataka,53772,3458,67,Books,mohanlal.goyal@renusharmafoundation.org
+2024-10-01,Mumbai,Maharashtra,34662,3223,66,Grocery,shanaya.viswanathan@yahoo.com
+2024-04-01,Bengaluru,Karnataka,54722,3686,388,Grocery,mehul.varughese@renusharmafoundation.org
+2024-06-01,Chennai,Tamil Nadu,54295,5327,347,Electronics,ehsaan.chaudhary@yahoo.com
+2022-04-01,Hyderabad,Telangana,62788,7085,394,Grocery,madhav.contractor@gmail.com
+2022-05-01,Jaipur,Rajasthan,49745,5874,347,Grocery,bhamini.sawhney@renusharmafoundation.org
+2021-10-01,Bhopal,Madhya Pradesh,52129,2808,349,Clothing,romil.ganesh@renusharmafoundation.org
+2024-05-01,Lucknow,Uttar Pradesh,37435,3834,213,Home Decor,baiju.anne@gmail.com
+2023-04-01,Hyderabad,Telangana,73539,10326,69,Home Decor,vardaniya.dayal@gmail.com
+2022-07-01,Delhi,Delhi,62304,7392,101,Books,zaina.choudhury@yahoo.com
+2023-01-01,Kolkata,West Bengal,52345,7002,178,Clothing,chirag.chandran@renusharmafoundation.org
+2022-10-01,Bengaluru,Karnataka,32242,3222,106,Books,vritika.hari@yahoo.com
+2021-09-01,Bhopal,Madhya Pradesh,53358,6913,89,Electronics,ishaan.gill@renusharmafoundation.org
+2022-03-01,Chennai,Tamil Nadu,75224,10334,110,Clothing,faiyaz.sampath@yahoo.com
+2021-05-01,Bengaluru,Karnataka,43278,6206,149,Electronics,ranbir.goda@gmail.com
+2021-10-01,Ahmedabad,Gujarat,53124,5269,492,Home Decor,kaira.ravel@renusharmafoundation.org
+2022-11-01,Chennai,Tamil Nadu,39658,3889,260,Electronics,zeeshan.bobal@yahoo.com
+2024-05-01,Delhi,Delhi,37039,2395,426,Clothing,neelofar.sule@yahoo.com
+2023-04-01,Lucknow,Uttar Pradesh,50172,4782,280,Books,shray.kota@gmail.com
+2024-06-01,Ahmedabad,Gujarat,46749,4266,450,Clothing,navya.sandhu@yahoo.com
+2022-01-01,Ahmedabad,Gujarat,57084,5861,403,Books,advik.golla@gmail.com
+2023-02-01,Bengaluru,Karnataka,62985,5786,99,Grocery,adira.deol@gmail.com
+2021-02-01,Bengaluru,Karnataka,51466,4789,253,Books,myra.sampath@gmail.com
+2021-11-01,Jaipur,Rajasthan,66194,4140,118,Books,yasmin.tak@renusharmafoundation.org
+2024-06-01,Ahmedabad,Gujarat,56807,5567,251,Electronics,manikya.bobal@yahoo.com
+2022-03-01,Hyderabad,Telangana,30451,4355,282,Grocery,ayesha.datta@renusharmafoundation.org
+2021-04-01,Mumbai,Maharashtra,48891,4081,131,Grocery,miraya.kashyap@renusharmafoundation.org
+2023-04-01,Ahmedabad,Gujarat,59122,5167,117,Grocery,mishti.swaminathan@yahoo.com
+2022-07-01,Delhi,Delhi,56339,4209,484,Home Decor,jayan.sharaf@renusharmafoundation.org
+2021-01-01,Hyderabad,Telangana,56497,3063,273,Home Decor,bhavin.magar@renusharmafoundation.org
+2022-01-01,Chennai,Tamil Nadu,57820,6852,112,Home Decor,nitara.kurian@yahoo.com
+2022-06-01,Lucknow,Uttar Pradesh,37189,3535,388,Grocery,divyansh.goel@gmail.com
+2022-10-01,Lucknow,Uttar Pradesh,65516,9589,227,Grocery,anya.gera@gmail.com
+2024-10-01,Kolkata,West Bengal,31054,3183,459,Clothing,jivin.dash@gmail.com
+2022-10-01,Bengaluru,Karnataka,70837,6480,325,Grocery,jayesh.rege@renusharmafoundation.org
+2023-04-01,Mumbai,Maharashtra,58744,6138,333,Clothing,krish.madan@gmail.com
+2022-03-01,Lucknow,Uttar Pradesh,43940,2721,265,Electronics,nakul.devan@renusharmafoundation.org
+2024-06-01,Ahmedabad,Gujarat,38576,3654,373,Grocery,aayush.vaidya@renusharmafoundation.org
+2021-12-01,Lucknow,Uttar Pradesh,82008,7044,365,Grocery,indrans.gera@renusharmafoundation.org
+2022-05-01,Delhi,Delhi,26441,1613,278,Grocery,shayak.sachdev@gmail.com
+2021-02-01,Mumbai,Maharashtra,84046,5248,146,Home Decor,elakshi.de@renusharmafoundation.org
+2024-06-01,Hyderabad,Telangana,45986,3412,447,Electronics,ahana .doctor@renusharmafoundation.org
+2024-06-01,Jaipur,Rajasthan,66166,8930,499,Home Decor,ela.vig@yahoo.com
+2024-06-01,Kolkata,West Bengal,72774,10383,101,Books,kiara.kaur@gmail.com
+2024-03-01,Chennai,Tamil Nadu,29986,3431,312,Electronics,vaibhav.manne@yahoo.com
+2024-08-01,Mumbai,Maharashtra,30261,4386,392,Books,reyansh.samra@gmail.com
+2024-01-01,Mumbai,Maharashtra,83890,12430,462,Clothing,amira.reddy@renusharmafoundation.org
+2024-05-01,Jaipur,Rajasthan,46121,4731,100,Home Decor,anika.lal@renusharmafoundation.org
+2022-09-01,Bengaluru,Karnataka,50764,3157,368,Books,vardaniya.kalita@gmail.com
+2023-02-01,Chennai,Tamil Nadu,60154,5333,447,Books,elakshi.sethi@renusharmafoundation.org
+2024-02-01,Lucknow,Uttar Pradesh,43844,2254,94,Electronics,samaira.bajaj@gmail.com
+2021-09-01,Ahmedabad,Gujarat,24860,3690,441,Grocery,anya.khalsa@yahoo.com
+2024-11-01,Lucknow,Uttar Pradesh,26744,2944,290,Home Decor,manjari.bassi@yahoo.com
+2022-07-01,Delhi,Delhi,61599,3823,128,Grocery,anya.uppal@gmail.com
+2024-12-01,Chennai,Tamil Nadu,25149,3331,327,Electronics,gatik.lad@yahoo.com
+2023-11-01,Hyderabad,Telangana,49777,6431,347,Grocery,akarsh.korpal@gmail.com
+2021-02-01,Chennai,Tamil Nadu,30805,3034,123,Home Decor,inaaya .jaggi@renusharmafoundation.org
+2023-11-01,Mumbai,Maharashtra,68167,9391,74,Clothing,indrajit.ben@renusharmafoundation.org
+2021-05-01,Delhi,Delhi,48390,7077,294,Books,neysa.karpe@renusharmafoundation.org
+2023-01-01,Hyderabad,Telangana,44751,3461,153,Grocery,dhruv.khurana@yahoo.com
+2022-06-01,Bengaluru,Karnataka,32291,4363,71,Electronics,samar.mani@gmail.com
+2024-12-01,Mumbai,Maharashtra,58649,4414,195,Clothing,nehmat.gokhale@renusharmafoundation.org
+2023-05-01,Hyderabad,Telangana,86187,7169,298,Books,kiara.kakar@renusharmafoundation.org
+2023-10-01,Delhi,Delhi,61571,7133,134,Books,ivana.raman@renusharmafoundation.org
+2024-03-01,Mumbai,Maharashtra,63591,8861,156,Electronics,pranay.banerjee@gmail.com
+2022-04-01,Lucknow,Uttar Pradesh,54049,3723,160,Grocery,nirvi.samra@renusharmafoundation.org
+2021-09-01,Lucknow,Uttar Pradesh,57406,5089,444,Electronics,eshani.kara@gmail.com
+2022-03-01,Kolkata,West Bengal,51119,7091,175,Clothing,lavanya.bahri@renusharmafoundation.org
+2024-07-01,Jaipur,Rajasthan,39984,2897,165,Books,kaira.majumdar@yahoo.com
+2024-10-01,Chennai,Tamil Nadu,34551,4499,326,Books,mohanlal.ray@gmail.com
+2022-01-01,Jaipur,Rajasthan,26828,2331,157,Home Decor,nitara.savant@yahoo.com
+2021-10-01,Ahmedabad,Gujarat,38514,3088,180,Home Decor,advika.sami@gmail.com
+2023-11-01,Hyderabad,Telangana,28074,2369,420,Clothing,kabir.sibal@gmail.com
+2021-05-01,Kolkata,West Bengal,36692,3602,302,Grocery,ayesha.kari@gmail.com
+2022-12-01,Mumbai,Maharashtra,64916,6071,366,Clothing,lagan.grewal@renusharmafoundation.org
+2021-05-01,Kolkata,West Bengal,65817,6539,184,Grocery,vardaniya.bora@yahoo.com
+2021-04-01,Mumbai,Maharashtra,31842,2615,209,Clothing,jayan.biswas@gmail.com
+2024-04-01,Delhi,Delhi,51904,5877,222,Electronics,kashvi.bhasin@renusharmafoundation.org
+2023-04-01,Jaipur,Rajasthan,52948,4290,368,Clothing,taran.bail@yahoo.com
+2022-04-01,Bhopal,Madhya Pradesh,44270,2631,455,Books,pihu.choudhry@yahoo.com
+2021-10-01,Hyderabad,Telangana,54068,4272,305,Grocery,mannat.sur@yahoo.com
+2021-06-01,Jaipur,Rajasthan,23662,2299,251,Clothing,yasmin.anne@yahoo.com
+2023-01-01,Ahmedabad,Gujarat,66495,3389,185,Home Decor,farhan.venkataraman@renusharmafoundation.org
+2022-07-01,Delhi,Delhi,22354,1922,298,Home Decor,dhanush.samra@gmail.com
+2024-01-01,Hyderabad,Telangana,75229,9710,427,Home Decor,prerak.sankar@yahoo.com
+2022-05-01,Chennai,Tamil Nadu,52065,4015,444,Home Decor,anika.baria@renusharmafoundation.org
+2022-07-01,Kolkata,West Bengal,64149,5673,116,Electronics,tanya.chauhan@yahoo.com
+2023-01-01,Lucknow,Uttar Pradesh,23087,1680,114,Grocery,vritika.bobal@gmail.com
+2024-05-01,Kolkata,West Bengal,49607,3683,230,Grocery,sara.shetty@yahoo.com
+2024-04-01,Bhopal,Madhya Pradesh,56533,3089,128,Clothing,ira.sarin@yahoo.com
+2022-10-01,Hyderabad,Telangana,57471,4335,59,Grocery,taimur.bumb@renusharmafoundation.org
+2024-01-01,Mumbai,Maharashtra,70468,7085,469,Clothing,armaan.khosla@yahoo.com
+2024-03-01,Bengaluru,Karnataka,41149,2189,382,Clothing,amira.bala@gmail.com
+2021-02-01,Bengaluru,Karnataka,42115,5241,252,Books,zain.ravi@yahoo.com
+2022-07-01,Delhi,Delhi,62037,4940,499,Home Decor,jivin.balasubramanian@renusharmafoundation.org
+2023-05-01,Hyderabad,Telangana,39657,4021,286,Home Decor,shaan.dugal@renusharmafoundation.org
+2021-05-01,Delhi,Delhi,24528,3569,319,Books,ritvik.subramaniam@yahoo.com
+2021-06-01,Bengaluru,Karnataka,42237,4547,197,Grocery,dhanuk.sarna@yahoo.com
+2021-11-01,Lucknow,Uttar Pradesh,53667,6905,262,Books,renee.rege@yahoo.com
+2021-06-01,Bhopal,Madhya Pradesh,39116,5166,225,Electronics,uthkarsh.swaminathan@gmail.com
+2023-01-01,Bhopal,Madhya Pradesh,54754,4132,226,Clothing,alia.balay@gmail.com
+2024-04-01,Delhi,Delhi,36369,4000,393,Clothing,yashvi.sarna@renusharmafoundation.org
+2022-05-01,Mumbai,Maharashtra,53586,6151,157,Home Decor,taimur.tiwari@gmail.com
+2024-01-01,Hyderabad,Telangana,56723,7037,340,Electronics,sana.rau@gmail.com
+2023-05-01,Jaipur,Rajasthan,60491,5500,340,Electronics,pranay.luthra@gmail.com
+2024-10-01,Mumbai,Maharashtra,69528,6679,286,Clothing,hunar.manda@gmail.com
+2022-09-01,Delhi,Delhi,43429,3527,289,Electronics,renee.bhatia@yahoo.com
+2023-11-01,Bengaluru,Karnataka,49314,5941,355,Electronics,elakshi.bobal@yahoo.com
+2024-05-01,Kolkata,West Bengal,59378,5821,348,Clothing,abram.iyer@gmail.com
+2021-09-01,Jaipur,Rajasthan,52414,3894,497,Home Decor,arhaan.ram@gmail.com
+2023-03-01,Bengaluru,Karnataka,16320,2157,223,Clothing,hiran.ramakrishnan@renusharmafoundation.org
+2023-01-01,Kolkata,West Bengal,55809,6860,62,Electronics,gokul.hari@yahoo.com
+2024-12-01,Ahmedabad,Gujarat,50496,3388,281,Clothing,jayant.sridhar@renusharmafoundation.org
+2023-11-01,Hyderabad,Telangana,67682,9483,263,Books,jayan.ganesan@yahoo.com
+2022-07-01,Bhopal,Madhya Pradesh,59676,8736,435,Grocery,abram.dugal@gmail.com
+2024-04-01,Bhopal,Madhya Pradesh,46809,2798,110,Home Decor,ira.raj@renusharmafoundation.org
+2021-06-01,Mumbai,Maharashtra,57056,8155,138,Home Decor,sumer.bumb@gmail.com
+2022-02-01,Jaipur,Rajasthan,54625,5965,260,Grocery,himmat.bail@gmail.com
+2024-10-01,Hyderabad,Telangana,78943,7702,222,Grocery,uthkarsh.savant@gmail.com
+2023-11-01,Delhi,Delhi,25356,2520,142,Books,nitara.sood@yahoo.com
+2023-02-01,Hyderabad,Telangana,7482,1049,321,Books,aaryahi.varughese@renusharmafoundation.org
+2022-04-01,Hyderabad,Telangana,10166,723,173,Home Decor,aaina.kalita@renusharmafoundation.org
+2022-11-01,Mumbai,Maharashtra,63653,5046,127,Books,pihu.dayal@gmail.com
+2022-11-01,Hyderabad,Telangana,41908,6028,495,Books,bhavin.guha@yahoo.com
+2022-09-01,Kolkata,West Bengal,71345,5777,488,Electronics,divyansh.chadha@gmail.com
+2024-10-01,Bengaluru,Karnataka,62869,4874,153,Home Decor,anay.lad@renusharmafoundation.org
+2021-06-01,Ahmedabad,Gujarat,43796,6288,262,Electronics,samiha.sura@gmail.com
+2021-10-01,Delhi,Delhi,60599,3153,356,Home Decor,anay.bhatia@gmail.com
+2021-02-01,Ahmedabad,Gujarat,50369,5895,372,Books,madhav.kapur@renusharmafoundation.org
+2024-06-01,Kolkata,West Bengal,60421,3836,445,Home Decor,mishti.mandal@gmail.com
+2024-06-01,Chennai,Tamil Nadu,70048,5791,470,Electronics,dhanush.apte@yahoo.com
+2021-10-01,Bengaluru,Karnataka,26956,3689,285,Grocery,purab.bhardwaj@renusharmafoundation.org
+2021-03-01,Bengaluru,Karnataka,49170,5971,77,Books,ryan.aurora@yahoo.com
+2021-08-01,Chennai,Tamil Nadu,36390,2793,59,Clothing,sahil.manda@yahoo.com
+2022-03-01,Bengaluru,Karnataka,45363,6188,419,Books,sana.aurora@renusharmafoundation.org
+2023-04-01,Jaipur,Rajasthan,54530,6828,381,Electronics,indrans.kuruvilla@yahoo.com
+2024-10-01,Mumbai,Maharashtra,70565,6603,224,Electronics,piya.singh@gmail.com
+2023-02-01,Bengaluru,Karnataka,34898,4157,387,Books,kanav.sekhon@gmail.com
+2023-08-01,Bhopal,Madhya Pradesh,42355,5964,359,Electronics,ishita.dhingra@gmail.com
+2023-05-01,Ahmedabad,Gujarat,75794,8899,261,Grocery,sumer.banik@renusharmafoundation.org
+2024-08-01,Jaipur,Rajasthan,22554,3024,357,Clothing,suhana.mangat@yahoo.com
+2023-10-01,Hyderabad,Telangana,47266,5659,383,Books,riaan.kant@yahoo.com
+2024-09-01,Lucknow,Uttar Pradesh,26483,3619,455,Home Decor,ranbir.raval@renusharmafoundation.org
+2022-03-01,Kolkata,West Bengal,39354,5026,69,Books,zeeshan.seth@yahoo.com
+2021-12-01,Jaipur,Rajasthan,26495,3153,282,Home Decor,shaan.bandi@gmail.com
+2023-02-01,Jaipur,Rajasthan,36636,3877,436,Home Decor,arhaan.mangat@yahoo.com
+2023-02-01,Jaipur,Rajasthan,24406,3348,340,Books,diya.konda@renusharmafoundation.org
+2023-08-01,Bhopal,Madhya Pradesh,23472,3261,412,Electronics,dishani.dua@yahoo.com
+2022-08-01,Delhi,Delhi,46258,4071,325,Electronics,ayesha.bhakta@gmail.com
+2021-10-01,Chennai,Tamil Nadu,78651,5403,107,Books,neelofar.dora@yahoo.com
+2022-01-01,Ahmedabad,Gujarat,34749,2992,344,Grocery,faiyaz.krishnan@gmail.com
+2023-07-01,Kolkata,West Bengal,40579,3697,352,Grocery,yuvaan.ray@renusharmafoundation.org
+2022-11-01,Bhopal,Madhya Pradesh,49463,5816,283,Electronics,purab.bhargava@yahoo.com
+2021-04-01,Kolkata,West Bengal,39829,2241,199,Grocery,yakshit.subramanian@yahoo.com
+2022-09-01,Delhi,Delhi,69897,6849,228,Home Decor,aarush.sheth@gmail.com
+2022-03-01,Ahmedabad,Gujarat,32336,4450,427,Books,biju.chawla@gmail.com
+2023-07-01,Mumbai,Maharashtra,32640,3458,497,Grocery,divij.sane@gmail.com
+2022-11-01,Bhopal,Madhya Pradesh,28302,1988,127,Clothing,divyansh.johal@yahoo.com
+2024-12-01,Jaipur,Rajasthan,33939,2315,309,Home Decor,biju.bedi@yahoo.com
+2024-01-01,Jaipur,Rajasthan,50774,6478,357,Grocery,shalv.swaminathan@gmail.com
+2022-04-01,Bengaluru,Karnataka,39830,5467,159,Books,hridaan.sharma@yahoo.com
+2022-12-01,Chennai,Tamil Nadu,50898,2624,196,Home Decor,vardaniya.sahota@yahoo.com
+2023-08-01,Jaipur,Rajasthan,54757,7870,313,Home Decor,dharmajan.baria@gmail.com
+2022-04-01,Lucknow,Uttar Pradesh,56658,4478,146,Clothing,hunar.dubey@gmail.com
+2021-08-01,Bengaluru,Karnataka,52720,7662,53,Grocery,ira.joshi@gmail.com
+2021-03-01,Mumbai,Maharashtra,49833,5484,96,Home Decor,fateh.jaggi@renusharmafoundation.org
+2022-01-01,Chennai,Tamil Nadu,67820,5095,423,Grocery,azad.butala@yahoo.com
+2022-03-01,Jaipur,Rajasthan,38170,4702,451,Grocery,zoya.amble@yahoo.com
+2024-10-01,Kolkata,West Bengal,14537,1555,323,Books,misha.chokshi@gmail.com
+2024-02-01,Mumbai,Maharashtra,34181,4352,479,Clothing,hunar.bhatnagar@renusharmafoundation.org
+2023-02-01,Bengaluru,Karnataka,57858,6457,384,Electronics,vedika.master@yahoo.com
+2022-07-01,Bhopal,Madhya Pradesh,51856,2663,125,Grocery,jayesh.ahluwalia@renusharmafoundation.org
+2024-07-01,Delhi,Delhi,61331,3930,122,Electronics,sara.sahni@gmail.com
+2024-06-01,Ahmedabad,Gujarat,38142,2257,242,Books,onkar.samra@renusharmafoundation.org
+2021-05-01,Chennai,Tamil Nadu,29603,2894,148,Grocery,vedika.tripathi@yahoo.com
+2024-01-01,Jaipur,Rajasthan,54337,3826,298,Books,uthkarsh.kunda@gmail.com
+2021-10-01,Hyderabad,Telangana,37805,3249,98,Clothing,vaibhav.yohannan@renusharmafoundation.org
+2023-02-01,Delhi,Delhi,41814,3783,159,Electronics,ritvik.sood@yahoo.com
+2021-08-01,Lucknow,Uttar Pradesh,19754,2300,318,Grocery,navya.lalla@renusharmafoundation.org
+2023-03-01,Jaipur,Rajasthan,35057,3028,295,Clothing,riya.dar@renusharmafoundation.org
+2024-06-01,Lucknow,Uttar Pradesh,50973,2999,490,Clothing,zain.ravel@yahoo.com
+2023-10-01,Hyderabad,Telangana,50555,3157,392,Grocery,reyansh.chandran@gmail.com
+2024-02-01,Jaipur,Rajasthan,41685,3839,358,Clothing,stuvan.subramanian@yahoo.com
+2021-07-01,Bengaluru,Karnataka,56035,3911,243,Grocery,bhamini.sahota@renusharmafoundation.org
+2022-03-01,Chennai,Tamil Nadu,36665,2716,356,Books,hazel.garde@yahoo.com
+2024-12-01,Mumbai,Maharashtra,37953,4640,352,Clothing,sana.bhatti@gmail.com
+2024-03-01,Bengaluru,Karnataka,44530,4529,178,Electronics,zoya.handa@renusharmafoundation.org
+2024-01-01,Chennai,Tamil Nadu,32657,4545,190,Clothing,ira.bhattacharyya@yahoo.com
+2022-06-01,Ahmedabad,Gujarat,18950,1426,437,Grocery,nakul.bajwa@renusharmafoundation.org
+2023-09-01,Ahmedabad,Gujarat,55245,5527,336,Electronics,nakul.dhar@renusharmafoundation.org
+2021-11-01,Lucknow,Uttar Pradesh,29439,2525,289,Grocery,veer.shroff@yahoo.com
+2022-08-01,Jaipur,Rajasthan,46661,5211,314,Home Decor,dharmajan.badami@yahoo.com
+2024-12-01,Chennai,Tamil Nadu,58733,4169,73,Electronics,rania.aurora@renusharmafoundation.org
+2023-03-01,Lucknow,Uttar Pradesh,39682,2249,140,Clothing,chirag.koshy@gmail.com
+2022-07-01,Hyderabad,Telangana,56591,5333,340,Clothing,amira.shanker@gmail.com
+2022-02-01,Ahmedabad,Gujarat,20814,2627,371,Clothing,lavanya.kashyap@yahoo.com
+2024-09-01,Mumbai,Maharashtra,18581,1758,280,Clothing,shray.ghosh@renusharmafoundation.org
+2021-11-01,Delhi,Delhi,51727,7220,104,Electronics,nehmat.mahal@yahoo.com
+2022-07-01,Delhi,Delhi,49138,4104,365,Electronics,dhruv.gola@gmail.com
+2024-03-01,Bengaluru,Karnataka,35816,3414,115,Books,tanya.wali@yahoo.com
+2024-03-01,Bengaluru,Karnataka,48344,6883,442,Clothing,indranil.guha@renusharmafoundation.org
+2022-09-01,Hyderabad,Telangana,49379,7053,102,Clothing,piya.mand@yahoo.com
+2023-08-01,Hyderabad,Telangana,56861,8399,361,Grocery,kiara.baria@yahoo.com
+2023-11-01,Bhopal,Madhya Pradesh,44576,2381,150,Grocery,shamik.sagar@renusharmafoundation.org
+2022-11-01,Mumbai,Maharashtra,52832,3150,63,Grocery,alia.konda@gmail.com
+2021-08-01,Delhi,Delhi,62852,3681,173,Electronics,eva.wali@gmail.com
+2024-05-01,Kolkata,West Bengal,80211,6850,309,Electronics,drishya.badal@renusharmafoundation.org
+2023-12-01,Hyderabad,Telangana,33509,3072,122,Home Decor,sana.keer@yahoo.com
+2023-03-01,Mumbai,Maharashtra,41055,2274,231,Home Decor,aayush.bawa@renusharmafoundation.org
+2021-07-01,Lucknow,Uttar Pradesh,51468,4152,116,Home Decor,gokul.trivedi@gmail.com
+2021-09-01,Mumbai,Maharashtra,50381,7541,356,Grocery,darshit.maharaj@renusharmafoundation.org
+2021-12-01,Delhi,Delhi,44806,2732,283,Home Decor,ela.dube@renusharmafoundation.org
+2022-08-01,Bengaluru,Karnataka,37763,3133,360,Clothing,sara.khosla@yahoo.com
+2023-12-01,Hyderabad,Telangana,49577,4039,237,Home Decor,nakul.dhillon@gmail.com
+2023-12-01,Chennai,Tamil Nadu,31208,4679,374,Electronics,ira.ganesan@renusharmafoundation.org
+2022-05-01,Ahmedabad,Gujarat,37152,3100,355,Home Decor,charvi.andra@renusharmafoundation.org
+2021-01-01,Chennai,Tamil Nadu,47635,4743,310,Grocery,ela.sibal@gmail.com
+2023-01-01,Ahmedabad,Gujarat,31789,3098,50,Books,prerak.tella@gmail.com
+2023-02-01,Chennai,Tamil Nadu,65235,8271,185,Electronics,kanav.hari@yahoo.com
+2023-09-01,Mumbai,Maharashtra,52348,5926,328,Home Decor,vritika.gour@yahoo.com
+2024-11-01,Hyderabad,Telangana,58112,5619,333,Grocery,baiju.rama@yahoo.com
+2023-12-01,Hyderabad,Telangana,63813,3652,285,Books,pranay.sarna@renusharmafoundation.org
+2023-06-01,Chennai,Tamil Nadu,36304,2554,94,Electronics,devansh.sule@renusharmafoundation.org
+2024-07-01,Lucknow,Uttar Pradesh,40131,5036,465,Grocery,alia.majumdar@yahoo.com
+2024-10-01,Lucknow,Uttar Pradesh,54951,8101,406,Home Decor,kavya.sarna@yahoo.com
+2024-05-01,Hyderabad,Telangana,37115,2254,370,Home Decor,amira.savant@yahoo.com
+2021-10-01,Hyderabad,Telangana,77744,5290,418,Books,vedika.shenoy@yahoo.com
+2024-02-01,Jaipur,Rajasthan,39040,2476,248,Clothing,mamooty.bhattacharyya@yahoo.com
+2023-08-01,Ahmedabad,Gujarat,65327,4087,343,Home Decor,veer.goda@gmail.com
+2024-11-01,Chennai,Tamil Nadu,39740,3286,107,Clothing,aarav.shanker@renusharmafoundation.org
+2023-02-01,Hyderabad,Telangana,60146,6172,347,Books,diya.dugal@yahoo.com
+2023-05-01,Bengaluru,Karnataka,31871,4513,324,Books,rasha.bhasin@gmail.com
+2021-08-01,Kolkata,West Bengal,52661,5156,408,Books,rati.thakkar@yahoo.com
+2021-01-01,Jaipur,Rajasthan,41020,4670,187,Electronics,divij.soni@renusharmafoundation.org
+2021-12-01,Mumbai,Maharashtra,29329,1823,129,Home Decor,dhanush.mandal@gmail.com
+2024-01-01,Jaipur,Rajasthan,56764,7217,258,Electronics,nirvi.wali@yahoo.com
+2024-04-01,Delhi,Delhi,37211,3743,481,Electronics,armaan.kari@gmail.com
+2022-12-01,Mumbai,Maharashtra,60407,7958,296,Grocery,renee.swamy@gmail.com
+2022-11-01,Ahmedabad,Gujarat,44517,2634,492,Grocery,yasmin.master@gmail.com
+2021-06-01,Lucknow,Uttar Pradesh,65178,8238,391,Books,eva.yohannan@yahoo.com
+2024-03-01,Bengaluru,Karnataka,67285,4357,493,Grocery,shayak.trivedi@renusharmafoundation.org
+2023-03-01,Ahmedabad,Gujarat,50155,2901,396,Home Decor,nirvi.chowdhury@gmail.com
+2021-07-01,Bengaluru,Karnataka,40990,6132,178,Clothing,advika.bajwa@yahoo.com
+2021-02-01,Ahmedabad,Gujarat,58337,6808,471,Electronics,samaira.sahni@gmail.com
+2021-09-01,Chennai,Tamil Nadu,36683,5140,249,Home Decor,taran.kata@renusharmafoundation.org
+2023-12-01,Chennai,Tamil Nadu,55393,6459,393,Electronics,amira.lal@gmail.com
+2023-09-01,Lucknow,Uttar Pradesh,61774,6546,238,Clothing,kabir.kapadia@yahoo.com
+2023-02-01,Bhopal,Madhya Pradesh,23277,1473,304,Grocery,seher.sami@gmail.com
+2023-03-01,Hyderabad,Telangana,38118,5248,310,Grocery,yuvaan.randhawa@renusharmafoundation.org
+2021-08-01,Bhopal,Madhya Pradesh,33225,3326,204,Electronics,aaina.sabharwal@gmail.com
+2023-07-01,Bhopal,Madhya Pradesh,38103,4006,315,Electronics,sumer.basak@gmail.com
+2022-06-01,Mumbai,Maharashtra,52351,2744,122,Home Decor,biju.bumb@renusharmafoundation.org
+2022-07-01,Lucknow,Uttar Pradesh,64533,5027,219,Grocery,indrans.bahl@gmail.com
+2024-11-01,Hyderabad,Telangana,48976,6860,122,Home Decor,myra.varma@yahoo.com
+2021-09-01,Ahmedabad,Gujarat,55321,8089,113,Clothing,farhan.rao@yahoo.com
+2021-12-01,Bhopal,Madhya Pradesh,4308,301,249,Home Decor,kiaan.kanda@yahoo.com
+2021-03-01,Hyderabad,Telangana,8411,421,222,Clothing,keya.soni@renusharmafoundation.org
+2021-07-01,Lucknow,Uttar Pradesh,55292,4603,416,Grocery,tarini.dass@gmail.com
+2022-06-01,Hyderabad,Telangana,63956,4241,436,Clothing,eva.buch@yahoo.com
+2021-05-01,Kolkata,West Bengal,64588,9594,228,Electronics,baiju.mandal@yahoo.com
+2024-04-01,Bengaluru,Karnataka,41132,3288,200,Books,purab.shankar@renusharmafoundation.org
+2022-02-01,Ahmedabad,Gujarat,35103,2063,261,Home Decor,veer.srinivasan@renusharmafoundation.org
+2024-10-01,Delhi,Delhi,54199,3523,358,Electronics,advik.bail@yahoo.com
+2021-07-01,Ahmedabad,Gujarat,48238,7030,446,Books,aniruddh.lal@renusharmafoundation.org
+2024-12-01,Bhopal,Madhya Pradesh,42530,6099,347,Books,navya.kapur@yahoo.com
+2024-08-01,Bhopal,Madhya Pradesh,48343,4531,270,Clothing,mohanlal.sarin@yahoo.com
+2022-05-01,Chennai,Tamil Nadu,65969,3662,237,Grocery,himmat.khanna@yahoo.com
+2021-04-01,Chennai,Tamil Nadu,42967,3047,64,Electronics,aaina.saini@renusharmafoundation.org
+2022-09-01,Mumbai,Maharashtra,19290,1602,368,Grocery,tanya.soman@gmail.com
+2023-10-01,Mumbai,Maharashtra,47224,3525,194,Grocery,dharmajan.ben@yahoo.com
+2021-10-01,Mumbai,Maharashtra,33080,2381,108,Clothing,ira.sachar@yahoo.com
+2022-05-01,Delhi,Delhi,43342,5362,181,Home Decor,oorja.doctor@yahoo.com
+2021-06-01,Hyderabad,Telangana,72208,6156,112,Grocery,aarna.rao@renusharmafoundation.org
+2022-02-01,Delhi,Delhi,53308,6353,357,Grocery,sumer.kashyap@renusharmafoundation.org
+2021-01-01,Chennai,Tamil Nadu,46812,3374,457,Home Decor,rati.srinivas@yahoo.com
+2024-05-01,Ahmedabad,Gujarat,36938,4358,499,Home Decor,yashvi.gokhale@yahoo.com
+2024-08-01,Kolkata,West Bengal,46075,5643,234,Clothing,vedika.dewan@gmail.com
+2024-08-01,Lucknow,Uttar Pradesh,69521,3500,115,Clothing,purab.wagle@yahoo.com
+2021-03-01,Mumbai,Maharashtra,46876,2674,184,Grocery,vidur.toor@renusharmafoundation.org
+2023-08-01,Kolkata,West Bengal,41317,6190,375,Clothing,dharmajan.gaba@renusharmafoundation.org
+2024-07-01,Bengaluru,Karnataka,49158,4185,432,Grocery,samar.edwin@gmail.com
+2022-08-01,Jaipur,Rajasthan,46370,5797,343,Electronics,vaibhav.iyer@renusharmafoundation.org
+2023-02-01,Ahmedabad,Gujarat,37116,5305,81,Grocery,kanav.sastry@gmail.com
+2023-11-01,Kolkata,West Bengal,61416,4319,459,Home Decor,hazel.sastry@renusharmafoundation.org
+2023-05-01,Kolkata,West Bengal,67117,3953,307,Home Decor,nitya.mane@yahoo.com
+2023-10-01,Kolkata,West Bengal,55513,6065,476,Home Decor,kaira.kapur@yahoo.com
+2021-05-01,Lucknow,Uttar Pradesh,22729,2618,157,Books,tiya.sundaram@yahoo.com
+2021-11-01,Bhopal,Madhya Pradesh,11612,1689,382,Clothing,anika.sharaf@gmail.com
+2023-03-01,Kolkata,West Bengal,63833,7425,490,Clothing,vihaan.chaudhry@renusharmafoundation.org
+2021-04-01,Mumbai,Maharashtra,66866,5877,95,Books,raunak.wable@yahoo.com
+2023-09-01,Bengaluru,Karnataka,62939,5850,171,Grocery,kabir.sodhi@yahoo.com
+2022-09-01,Bhopal,Madhya Pradesh,46636,4951,342,Home Decor,mahika.issac@yahoo.com
+2022-06-01,Chennai,Tamil Nadu,52682,3481,144,Books,mahika.goda@gmail.com
+2022-07-01,Hyderabad,Telangana,66445,4377,144,Home Decor,suhana.keer@gmail.com
+2021-08-01,Kolkata,West Bengal,55940,5763,177,Clothing,nirvi.dass@gmail.com
+2021-11-01,Bengaluru,Karnataka,25837,3423,93,Clothing,veer.roy@renusharmafoundation.org
+2022-01-01,Lucknow,Uttar Pradesh,32167,1750,380,Electronics,siya.choudhry@renusharmafoundation.org
+2021-03-01,Bengaluru,Karnataka,35932,2490,203,Clothing,trisha.mall@yahoo.com
+2022-02-01,Ahmedabad,Gujarat,40235,3785,89,Books,aradhya.mand@renusharmafoundation.org
+2021-03-01,Ahmedabad,Gujarat,34486,5031,177,Books,lavanya.shroff@gmail.com
+2023-10-01,Delhi,Delhi,48007,3050,91,Home Decor,shalv.doctor@yahoo.com
+2021-06-01,Mumbai,Maharashtra,71999,7874,287,Grocery,kaira.vora@gmail.com
+2022-11-01,Ahmedabad,Gujarat,65980,6822,87,Clothing,prerak.atwal@gmail.com
+2024-09-01,Bhopal,Madhya Pradesh,42950,3365,69,Electronics,bhavin.sharaf@yahoo.com
+2021-06-01,Mumbai,Maharashtra,44218,3963,81,Clothing,anay.lall@yahoo.com
+2022-08-01,Lucknow,Uttar Pradesh,32788,3648,410,Home Decor,shamik.buch@yahoo.com
+2023-02-01,Mumbai,Maharashtra,43849,3712,76,Electronics,mahika.sagar@yahoo.com
+2021-07-01,Bhopal,Madhya Pradesh,61787,7638,294,Home Decor,armaan.kothari@renusharmafoundation.org
+2023-06-01,Bhopal,Madhya Pradesh,63387,3638,261,Grocery,mahika.char@renusharmafoundation.org
+2024-11-01,Chennai,Tamil Nadu,47192,6138,397,Electronics,divij.sem@renusharmafoundation.org
+2024-07-01,Bengaluru,Karnataka,46707,2745,315,Home Decor,vidur.badal@yahoo.com
+2023-02-01,Delhi,Delhi,36048,3799,371,Books,jayant.dada@renusharmafoundation.org
+2021-01-01,Ahmedabad,Gujarat,66929,8775,444,Clothing,yashvi.bhagat@renusharmafoundation.org
+2022-12-01,Kolkata,West Bengal,48048,6389,202,Home Decor,mehul.tank@renusharmafoundation.org
+2024-04-01,Bhopal,Madhya Pradesh,23130,2982,329,Books,tara.bail@yahoo.com
+2023-08-01,Hyderabad,Telangana,48993,4268,200,Electronics,damini.biswas@yahoo.com
+2021-10-01,Chennai,Tamil Nadu,67721,8174,395,Clothing,zeeshan.chopra@renusharmafoundation.org
+2021-11-01,Jaipur,Rajasthan,79262,7493,182,Clothing,emir.dora@yahoo.com
+2023-01-01,Bengaluru,Karnataka,42515,5465,259,Books,aayush.jayaraman@gmail.com
+2024-08-01,Jaipur,Rajasthan,29699,3914,213,Electronics,shlok.agrawal@renusharmafoundation.org
+2021-11-01,Lucknow,Uttar Pradesh,50079,6667,208,Clothing,amani.bhalla@yahoo.com
+2023-08-01,Hyderabad,Telangana,56096,2815,130,Clothing,taran.dhingra@yahoo.com
+2023-10-01,Jaipur,Rajasthan,64541,7529,342,Clothing,kartik.chanda@gmail.com
+2021-04-01,Mumbai,Maharashtra,42805,2804,68,Grocery,zoya.goda@renusharmafoundation.org
+2023-11-01,Ahmedabad,Gujarat,44446,3423,459,Clothing,tushar.baria@yahoo.com
+2023-06-01,Kolkata,West Bengal,48475,5952,340,Clothing,jayesh.sachar@gmail.com
+2023-09-01,Ahmedabad,Gujarat,59095,4794,169,Grocery,mehul.varghese@renusharmafoundation.org
+2021-01-01,Kolkata,West Bengal,56586,3946,154,Electronics,rhea.bakshi@yahoo.com
+2022-07-01,Lucknow,Uttar Pradesh,56030,7220,115,Books,vihaan.bath@yahoo.com
+2022-04-01,Chennai,Tamil Nadu,38907,4796,467,Clothing,saanvi.shroff@yahoo.com
+2024-03-01,Ahmedabad,Gujarat,48955,4635,294,Grocery,farhan.mandal@yahoo.com
+2021-11-01,Kolkata,West Bengal,52759,4989,413,Grocery,emir.randhawa@renusharmafoundation.org
+2023-03-01,Hyderabad,Telangana,56260,7414,349,Clothing,renee.vig@yahoo.com
+2022-02-01,Lucknow,Uttar Pradesh,55099,6050,66,Clothing,anaya.sood@yahoo.com
+2024-07-01,Delhi,Delhi,45237,5035,449,Books,yuvraj .hayer@gmail.com
+2022-03-01,Lucknow,Uttar Pradesh,45327,2310,411,Grocery,manjari.bhardwaj@yahoo.com
+2024-07-01,Kolkata,West Bengal,51413,4941,147,Grocery,himmat.dutt@yahoo.com
+2024-09-01,Kolkata,West Bengal,63009,3725,247,Books,nirvaan.raj@yahoo.com
+2024-11-01,Bengaluru,Karnataka,57026,8056,55,Clothing,anaya.badal@gmail.com
+2021-10-01,Lucknow,Uttar Pradesh,83613,6774,423,Electronics,aradhya.jain@renusharmafoundation.org
+2021-04-01,Lucknow,Uttar Pradesh,44227,6264,460,Electronics,arnav.doctor@renusharmafoundation.org
+2024-10-01,Kolkata,West Bengal,75039,10968,475,Home Decor,anaya.babu@renusharmafoundation.org
+2021-09-01,Hyderabad,Telangana,68036,5036,296,Grocery,nakul.suri@renusharmafoundation.org
+2021-09-01,Hyderabad,Telangana,51409,2686,463,Clothing,tejas.banik@renusharmafoundation.org
+2024-10-01,Ahmedabad,Gujarat,52926,4007,298,Books,dhanush.sankar@yahoo.com
+2022-09-01,Chennai,Tamil Nadu,37224,4253,256,Clothing,riya.kar@gmail.com
+2021-09-01,Delhi,Delhi,57905,3451,461,Home Decor,riaan.seth@renusharmafoundation.org
+2022-02-01,Ahmedabad,Gujarat,32903,2489,246,Clothing,hansh.chawla@yahoo.com
+2022-11-01,Delhi,Delhi,55551,7776,369,Grocery,aayush.garde@renusharmafoundation.org
+2021-01-01,Chennai,Tamil Nadu,52914,2932,359,Electronics,riaan.divan@renusharmafoundation.org
+2024-05-01,Kolkata,West Bengal,41971,3249,250,Electronics,manjari.chandra@gmail.com
+2021-04-01,Chennai,Tamil Nadu,44781,5552,171,Books,ahana .bhatnagar@renusharmafoundation.org
+2022-04-01,Kolkata,West Bengal,53293,3529,115,Grocery,pranay.deshpande@gmail.com
+2022-01-01,Delhi,Delhi,23362,1989,494,Home Decor,taimur.bawa@yahoo.com
+2024-10-01,Lucknow,Uttar Pradesh,44041,3428,470,Electronics,yuvaan.tiwari@yahoo.com
+2022-04-01,Bengaluru,Karnataka,66173,7446,397,Home Decor,sumer.raval@renusharmafoundation.org
+2023-06-01,Kolkata,West Bengal,42600,6175,337,Books,ishaan.borde@renusharmafoundation.org
+2021-01-01,Bhopal,Madhya Pradesh,66028,4157,470,Home Decor,dishani.mane@renusharmafoundation.org
+2023-12-01,Ahmedabad,Gujarat,31618,4494,282,Clothing,yakshit.viswanathan@yahoo.com
+2022-01-01,Mumbai,Maharashtra,54944,7256,299,Books,aarav.dhillon@gmail.com
+2023-09-01,Bhopal,Madhya Pradesh,44453,3569,188,Home Decor,aayush.master@renusharmafoundation.org
+2021-01-01,Hyderabad,Telangana,54006,7877,334,Clothing,manjari.bawa@renusharmafoundation.org
+2023-08-01,Kolkata,West Bengal,44077,5225,133,Grocery,mohanlal.edwin@renusharmafoundation.org
+2022-07-01,Lucknow,Uttar Pradesh,20471,1470,332,Books,kavya.savant@gmail.com
+2022-11-01,Jaipur,Rajasthan,54264,7234,249,Books,tanya.samra@renusharmafoundation.org
+2022-07-01,Bhopal,Madhya Pradesh,37949,4213,453,Clothing,armaan.kota@renusharmafoundation.org
+2024-09-01,Delhi,Delhi,58809,3338,249,Grocery,nitara.wable@yahoo.com
+2023-10-01,Hyderabad,Telangana,57609,8286,250,Electronics,biju.bumb@renusharmafoundation.org
+2023-12-01,Delhi,Delhi,28433,2388,263,Grocery,shamik.bala@yahoo.com
+2023-03-01,Hyderabad,Telangana,69936,8495,160,Home Decor,advika.bali@gmail.com
+2023-12-01,Lucknow,Uttar Pradesh,57934,4267,490,Grocery,samiha.tata@yahoo.com
+2024-06-01,Chennai,Tamil Nadu,31478,1706,458,Clothing,raghav.kar@renusharmafoundation.org
+2022-02-01,Jaipur,Rajasthan,39064,3277,412,Electronics,vivaan.aggarwal@renusharmafoundation.org
+2021-04-01,Mumbai,Maharashtra,45337,4695,255,Grocery,madhav.kakar@gmail.com
+2023-02-01,Mumbai,Maharashtra,28185,1667,476,Electronics,biju.swaminathan@gmail.com
+2021-09-01,Kolkata,West Bengal,27464,1921,365,Home Decor,renee.mahajan@yahoo.com
+2021-05-01,Lucknow,Uttar Pradesh,62305,5657,466,Electronics,pari.sethi@yahoo.com
+2021-11-01,Kolkata,West Bengal,55332,5648,168,Books,farhan.bora@yahoo.com
+2022-10-01,Mumbai,Maharashtra,32691,3209,223,Grocery,jiya.bains@yahoo.com
+2022-07-01,Lucknow,Uttar Pradesh,54537,2775,127,Grocery,manjari.saha@yahoo.com
+2022-04-01,Chennai,Tamil Nadu,58848,5146,392,Home Decor,amira.sehgal@yahoo.com
+2024-03-01,Ahmedabad,Gujarat,31731,1633,494,Clothing,azad.dua@renusharmafoundation.org
+2021-09-01,Chennai,Tamil Nadu,65303,5642,160,Home Decor,nayantara.bail@yahoo.com
+2021-06-01,Kolkata,West Bengal,56394,4551,302,Electronics,ryan.chakraborty@yahoo.com
+2023-05-01,Bengaluru,Karnataka,48523,4120,249,Books,zeeshan.thakkar@yahoo.com
+2024-09-01,Jaipur,Rajasthan,38451,3649,286,Electronics,ahana .salvi@gmail.com
+2024-08-01,Hyderabad,Telangana,47321,4662,254,Books,manjari.dixit@yahoo.com
+2024-09-01,Chennai,Tamil Nadu,61500,6252,182,Home Decor,damini.sarkar@gmail.com
+2023-10-01,Bhopal,Madhya Pradesh,52131,5178,114,Electronics,shaan.sen@renusharmafoundation.org
+2023-12-01,Kolkata,West Bengal,48991,4761,277,Home Decor,lakshit.kannan@renusharmafoundation.org
+2024-07-01,Bhopal,Madhya Pradesh,25510,2499,114,Grocery,tarini.jain@gmail.com
+2021-08-01,Hyderabad,Telangana,56947,6465,310,Home Decor,saksham.kumar@gmail.com
+2021-08-01,Jaipur,Rajasthan,40462,3116,392,Electronics,jiya.vohra@gmail.com
+2022-06-01,Ahmedabad,Gujarat,72070,9334,72,Grocery,ranbir.gade@gmail.com
+2022-01-01,Delhi,Delhi,39555,5740,137,Home Decor,vardaniya.soman@gmail.com
+2022-01-01,Bhopal,Madhya Pradesh,70514,6726,329,Books,veer.datta@renusharmafoundation.org
+2021-02-01,Lucknow,Uttar Pradesh,30607,3142,233,Books,pari.lalla@yahoo.com
+2022-09-01,Bengaluru,Karnataka,58297,4335,482,Grocery,amani.garde@renusharmafoundation.org
+2024-05-01,Hyderabad,Telangana,54474,4655,177,Books,jiya.chad@renusharmafoundation.org
+2024-12-01,Delhi,Delhi,62008,5353,231,Electronics,anvi.gera@renusharmafoundation.org
+2023-07-01,Bhopal,Madhya Pradesh,45365,2464,480,Electronics,divyansh.mand@yahoo.com
+2021-01-01,Bengaluru,Karnataka,61519,3649,435,Grocery,ehsaan.kalla@yahoo.com
+2023-03-01,Kolkata,West Bengal,43433,4162,373,Home Decor,nakul.choudhury@renusharmafoundation.org
+2023-02-01,Delhi,Delhi,66755,9269,55,Home Decor,sumer.ramaswamy@gmail.com
+2023-01-01,Lucknow,Uttar Pradesh,25547,3337,377,Electronics,vihaan.toor@gmail.com
+2022-07-01,Lucknow,Uttar Pradesh,55689,7417,493,Books,kabir.gopal@yahoo.com
+2022-12-01,Bhopal,Madhya Pradesh,58460,8669,136,Electronics,yakshit.sarraf@gmail.com
+2021-02-01,Ahmedabad,Gujarat,78844,7858,492,Grocery,akarsh.magar@renusharmafoundation.org
+2023-09-01,Kolkata,West Bengal,61208,8377,167,Grocery,riaan.loyal@renusharmafoundation.org
+2023-06-01,Bengaluru,Karnataka,38755,2336,443,Books,kismat.kale@renusharmafoundation.org
+2021-01-01,Lucknow,Uttar Pradesh,48258,5728,417,Clothing,suhana.sandhu@gmail.com
+2021-07-01,Bengaluru,Karnataka,50183,4813,61,Books,rhea.date@yahoo.com
+2022-10-01,Ahmedabad,Gujarat,64146,6245,275,Clothing,kimaya.warrior@yahoo.com
+2024-02-01,Kolkata,West Bengal,42458,5312,94,Grocery,seher.bobal@gmail.com
+2024-04-01,Jaipur,Rajasthan,55345,5348,284,Electronics,pihu.bansal@gmail.com
+2023-11-01,Kolkata,West Bengal,75443,9866,50,Home Decor,indrajit.goda@yahoo.com
+2024-05-01,Hyderabad,Telangana,55941,3841,484,Home Decor,sana.johal@gmail.com
+2022-09-01,Bhopal,Madhya Pradesh,43449,2823,416,Clothing,nitya.tank@renusharmafoundation.org
+2024-05-01,Kolkata,West Bengal,43738,4472,385,Clothing,divit.bhatia@renusharmafoundation.org
+2023-01-01,Kolkata,West Bengal,56276,6475,484,Electronics,shayak.brar@renusharmafoundation.org
+2023-03-01,Delhi,Delhi,90443,11884,484,Books,rasha.kapur@gmail.com
+2022-06-01,Kolkata,West Bengal,40529,5550,230,Clothing,abram.kala@yahoo.com
+2021-02-01,Ahmedabad,Gujarat,40102,5858,101,Grocery,eshani.dugar@gmail.com
+2023-12-01,Bengaluru,Karnataka,49241,7098,115,Clothing,akarsh.hegde@renusharmafoundation.org
+2023-05-01,Ahmedabad,Gujarat,54451,7943,134,Clothing,jhanvi.chahal@renusharmafoundation.org
+2023-01-01,Chennai,Tamil Nadu,39797,3369,291,Home Decor,eshani.borah@yahoo.com
+2021-10-01,Lucknow,Uttar Pradesh,39885,3686,434,Books,anaya.sangha@gmail.com
+2021-09-01,Hyderabad,Telangana,45980,2427,156,Grocery,stuvan.kamdar@yahoo.com
+2022-01-01,Lucknow,Uttar Pradesh,64051,6727,316,Home Decor,tarini.bumb@yahoo.com
+2023-03-01,Jaipur,Rajasthan,33456,3320,372,Electronics,taimur.dugal@gmail.com
+2022-02-01,Ahmedabad,Gujarat,85747,8375,405,Home Decor,inaaya .dey@yahoo.com
+2022-03-01,Lucknow,Uttar Pradesh,64780,8681,95,Grocery,neelofar.kuruvilla@renusharmafoundation.org
+2024-05-01,Ahmedabad,Gujarat,55804,3244,190,Books,divij.raju@gmail.com
+2024-02-01,Ahmedabad,Gujarat,53022,2661,302,Electronics,yashvi.hayer@yahoo.com
+2021-01-01,Bengaluru,Karnataka,59602,5964,368,Home Decor,neysa.lad@renusharmafoundation.org
+2023-01-01,Delhi,Delhi,28700,3474,394,Home Decor,samar.vora@yahoo.com
+2022-03-01,Kolkata,West Bengal,44136,2929,265,Books,rati.atwal@yahoo.com
+2024-11-01,Hyderabad,Telangana,57936,7804,428,Grocery,akarsh.swaminathan@gmail.com
+2024-02-01,Jaipur,Rajasthan,40438,3904,474,Home Decor,devansh.dora@gmail.com
+2022-07-01,Hyderabad,Telangana,42009,2177,400,Home Decor,madhup.shankar@gmail.com
+2021-02-01,Jaipur,Rajasthan,70399,9144,131,Grocery,sara.dora@gmail.com
+2021-02-01,Jaipur,Rajasthan,53384,4882,93,Grocery,tarini.bose@renusharmafoundation.org
+2023-07-01,Kolkata,West Bengal,78013,8268,231,Books,vardaniya.thakkar@yahoo.com
+2024-05-01,Bengaluru,Karnataka,63011,3905,256,Home Decor,aarush.shanker@gmail.com
+2021-04-01,Mumbai,Maharashtra,51458,7074,355,Electronics,zaina.deo@gmail.com
+2023-08-01,Chennai,Tamil Nadu,44628,3144,470,Home Decor,sana.bhatnagar@renusharmafoundation.org
+2023-04-01,Lucknow,Uttar Pradesh,80169,7762,481,Home Decor,eshani.bandi@renusharmafoundation.org
+2023-05-01,Ahmedabad,Gujarat,25090,2036,322,Electronics,ela.salvi@gmail.com
+2021-02-01,Jaipur,Rajasthan,54873,2843,433,Books,eva.kuruvilla@gmail.com
+2022-03-01,Bhopal,Madhya Pradesh,28980,2894,158,Home Decor,vivaan.deshpande@gmail.com
+2023-03-01,Delhi,Delhi,38116,2883,465,Clothing,hrishita.keer@renusharmafoundation.org
+2023-12-01,Mumbai,Maharashtra,58509,7819,161,Clothing,kanav.kari@renusharmafoundation.org
+2024-08-01,Delhi,Delhi,44781,4075,341,Home Decor,renee.virk@yahoo.com
+2021-10-01,Jaipur,Rajasthan,53612,5976,413,Grocery,shamik.thaman@renusharmafoundation.org
+2022-05-01,Hyderabad,Telangana,41363,4208,283,Clothing,aaryahi.bahl@yahoo.com
+2024-12-01,Kolkata,West Bengal,41219,4852,109,Home Decor,seher.sood@yahoo.com
+2024-08-01,Bhopal,Madhya Pradesh,42830,2517,203,Home Decor,rasha.borra@renusharmafoundation.org
+2021-02-01,Jaipur,Rajasthan,19540,2587,311,Electronics,krish.bhargava@gmail.com
+2022-08-01,Mumbai,Maharashtra,60059,6391,230,Electronics,anay.dara@renusharmafoundation.org
+2022-10-01,Kolkata,West Bengal,64137,4836,258,Books,nehmat.balan@gmail.com
+2022-09-01,Delhi,Delhi,49249,6508,209,Books,dhanush.kala@gmail.com
+2021-02-01,Lucknow,Uttar Pradesh,14456,1230,443,Clothing,riaan.dhaliwal@renusharmafoundation.org
+2022-03-01,Lucknow,Uttar Pradesh,41857,5859,235,Home Decor,keya.dhillon@gmail.com
+2022-06-01,Lucknow,Uttar Pradesh,23865,1985,286,Electronics,kavya.karan@gmail.com
+2023-11-01,Chennai,Tamil Nadu,27631,1673,374,Home Decor,prisha.ahuja@yahoo.com
+2024-11-01,Ahmedabad,Gujarat,53522,2888,427,Clothing,shaan.goswami@renusharmafoundation.org
+2024-11-01,Delhi,Delhi,64071,6466,182,Books,dharmajan.baria@gmail.com
+2023-12-01,Jaipur,Rajasthan,42026,6284,390,Books,azad.dugar@gmail.com
+2022-06-01,Ahmedabad,Gujarat,57801,7115,439,Books,nakul.bawa@renusharmafoundation.org
+2024-11-01,Hyderabad,Telangana,68337,9088,78,Electronics,azad.taneja@yahoo.com
+2023-02-01,Mumbai,Maharashtra,36391,3845,198,Books,raghav.lal@yahoo.com
+2021-12-01,Kolkata,West Bengal,35915,2110,211,Clothing,fateh.rana@yahoo.com
+2023-06-01,Bhopal,Madhya Pradesh,34997,4877,180,Electronics,aaina.som@renusharmafoundation.org
+2024-10-01,Lucknow,Uttar Pradesh,36827,2741,50,Grocery,saanvi.dey@gmail.com
+2021-09-01,Delhi,Delhi,37188,3381,372,Grocery,indranil.reddy@yahoo.com
+2022-10-01,Hyderabad,Telangana,81752,9211,381,Books,badal.bhat@yahoo.com
+2021-01-01,Jaipur,Rajasthan,31607,1584,181,Clothing,shayak.ramanathan@renusharmafoundation.org
+2021-03-01,Bengaluru,Karnataka,30813,2056,490,Electronics,jivin.gera@renusharmafoundation.org
+2021-07-01,Bengaluru,Karnataka,71168,7212,360,Clothing,anay.rattan@gmail.com
+2024-07-01,Kolkata,West Bengal,70624,9755,168,Grocery,aarav.dave@renusharmafoundation.org
+2023-11-01,Ahmedabad,Gujarat,62624,4449,52,Clothing,urvi.sood@renusharmafoundation.org
+2021-12-01,Lucknow,Uttar Pradesh,69687,3959,107,Books,miraya.ratti@gmail.com
+2023-05-01,Jaipur,Rajasthan,81982,10149,262,Clothing,keya.ravi@gmail.com
+2021-08-01,Bengaluru,Karnataka,34317,2992,253,Electronics,prisha.sachdeva@gmail.com
+2021-07-01,Chennai,Tamil Nadu,30017,2551,189,Grocery,vivaan.lall@renusharmafoundation.org
+2022-05-01,Bengaluru,Karnataka,36230,3149,471,Home Decor,kanav.toor@renusharmafoundation.org
+2022-01-01,Hyderabad,Telangana,66361,6639,413,Electronics,nakul.bali@yahoo.com
+2021-08-01,Ahmedabad,Gujarat,24782,2495,288,Clothing,prerak.dua@gmail.com
+2023-04-01,Ahmedabad,Gujarat,73046,5447,245,Clothing,misha.bora@yahoo.com
+2023-12-01,Mumbai,Maharashtra,53632,3822,151,Clothing,fateh.lanka@yahoo.com
+2022-04-01,Chennai,Tamil Nadu,40214,4567,218,Clothing,farhan.balay@gmail.com
+2021-10-01,Delhi,Delhi,64512,9073,165,Clothing,shaan.bath@gmail.com
+2022-11-01,Lucknow,Uttar Pradesh,76325,6057,133,Clothing,samaira.shenoy@renusharmafoundation.org
+2022-06-01,Bhopal,Madhya Pradesh,68650,9912,53,Home Decor,madhup.mall@renusharmafoundation.org
+2023-10-01,Bengaluru,Karnataka,66229,8093,482,Electronics,mishti.khatri@renusharmafoundation.org
+2022-12-01,Delhi,Delhi,29784,3743,283,Grocery,farhan.badami@renusharmafoundation.org
+2022-05-01,Bengaluru,Karnataka,38568,4715,375,Home Decor,jivika.handa@renusharmafoundation.org
+2021-08-01,Delhi,Delhi,38538,3888,279,Books,samiha.thakkar@gmail.com
+2023-07-01,Delhi,Delhi,40260,2327,318,Electronics,samar.kalla@gmail.com
+2022-11-01,Mumbai,Maharashtra,72340,5676,224,Clothing,misha.vig@gmail.com
+2024-05-01,Mumbai,Maharashtra,44270,4722,329,Grocery,nakul.tak@renusharmafoundation.org
+2024-06-01,Delhi,Delhi,64167,9358,277,Grocery,himmat.dar@gmail.com
+2022-10-01,Delhi,Delhi,48452,3604,216,Electronics,hiran.dhaliwal@gmail.com
+2023-06-01,Chennai,Tamil Nadu,25753,3421,115,Grocery,azad.yohannan@renusharmafoundation.org
+2023-04-01,Lucknow,Uttar Pradesh,53202,4069,158,Electronics,indranil.bhatia@gmail.com
+2024-02-01,Ahmedabad,Gujarat,32523,2584,411,Books,mohanlal.ganesh@gmail.com
+2021-04-01,Jaipur,Rajasthan,64241,4258,51,Grocery,pari.mander@renusharmafoundation.org
+2023-05-01,Bengaluru,Karnataka,64239,6001,234,Clothing,pari.sehgal@gmail.com
+2022-10-01,Ahmedabad,Gujarat,48435,3702,352,Grocery,samar.srivastava@yahoo.com
+2021-03-01,Bengaluru,Karnataka,56985,4561,438,Books,advik.setty@yahoo.com
+2022-05-01,Ahmedabad,Gujarat,63943,7841,440,Clothing,gatik.gola@renusharmafoundation.org
+2023-04-01,Kolkata,West Bengal,32166,2501,255,Grocery,kismat.joshi@gmail.com
+2023-06-01,Bengaluru,Karnataka,59305,5280,146,Books,zain.badami@yahoo.com
+2024-02-01,Ahmedabad,Gujarat,69467,6806,283,Home Decor,vihaan.zachariah@renusharmafoundation.org
+2023-06-01,Kolkata,West Bengal,72700,5366,222,Home Decor,jayant.dasgupta@renusharmafoundation.org
+2021-09-01,Jaipur,Rajasthan,51313,2892,269,Clothing,zeeshan.babu@renusharmafoundation.org
+2022-07-01,Lucknow,Uttar Pradesh,51825,4897,355,Books,zoya.ramachandran@yahoo.com
+2023-04-01,Mumbai,Maharashtra,38930,5558,356,Electronics,indrans.dewan@renusharmafoundation.org
+2023-02-01,Delhi,Delhi,77739,5328,265,Books,ishaan.garg@gmail.com
+2021-03-01,Ahmedabad,Gujarat,51445,6216,122,Books,samar.koshy@gmail.com
+2021-06-01,Hyderabad,Telangana,63203,3438,211,Home Decor,riya.rastogi@renusharmafoundation.org
+2022-08-01,Chennai,Tamil Nadu,31601,4073,83,Electronics,taimur.ramaswamy@yahoo.com
+2023-04-01,Bhopal,Madhya Pradesh,47961,2565,260,Grocery,samarth.thaman@yahoo.com
+2022-11-01,Hyderabad,Telangana,46746,3613,133,Clothing,zara.korpal@gmail.com
+2022-06-01,Hyderabad,Telangana,43167,3159,110,Home Decor,anahita.bakshi@renusharmafoundation.org
+2023-01-01,Hyderabad,Telangana,45465,5676,474,Electronics,inaaya .kapur@gmail.com
+2021-12-01,Hyderabad,Telangana,66221,5537,444,Electronics,sahil.dhar@yahoo.com
+2021-09-01,Mumbai,Maharashtra,46896,4898,239,Grocery,baiju.loyal@yahoo.com
+2023-08-01,Hyderabad,Telangana,21731,2025,302,Books,ahana .kurian@gmail.com
+2022-11-01,Hyderabad,Telangana,55672,7819,290,Home Decor,manjari.koshy@gmail.com
+2022-08-01,Mumbai,Maharashtra,91390,12436,306,Clothing,myra.devan@yahoo.com
+2024-02-01,Hyderabad,Telangana,85094,6934,234,Electronics,armaan.manne@yahoo.com
+2024-10-01,Kolkata,West Bengal,45795,3973,222,Books,yuvraj .handa@renusharmafoundation.org
+2022-01-01,Lucknow,Uttar Pradesh,48273,5862,223,Clothing,shaan.chanda@yahoo.com
+2023-09-01,Kolkata,West Bengal,76083,3857,344,Electronics,samarth.kannan@yahoo.com
+2022-06-01,Jaipur,Rajasthan,44559,2958,348,Grocery,darshit.basu@yahoo.com
+2023-03-01,Delhi,Delhi,45426,5713,132,Clothing,ishita.bansal@renusharmafoundation.org
+2024-02-01,Bengaluru,Karnataka,40521,4541,84,Electronics,anvi.konda@yahoo.com
+2024-12-01,Bengaluru,Karnataka,75991,5684,446,Grocery,adah.sankar@renusharmafoundation.org
+2022-01-01,Lucknow,Uttar Pradesh,51571,6256,396,Books,neelofar.balasubramanian@gmail.com
+2022-08-01,Chennai,Tamil Nadu,36568,2852,143,Electronics,reyansh.kapadia@yahoo.com
+2023-05-01,Delhi,Delhi,83389,5030,350,Grocery,urvi.dhillon@yahoo.com
+2023-03-01,Ahmedabad,Gujarat,55344,4322,165,Grocery,eshani.kade@yahoo.com
+2024-04-01,Jaipur,Rajasthan,48021,2608,497,Home Decor,priyansh.bail@gmail.com
+2022-03-01,Ahmedabad,Gujarat,48644,5268,469,Clothing,sahil.kuruvilla@gmail.com
+2023-10-01,Hyderabad,Telangana,73284,10280,265,Grocery,zoya.jhaveri@renusharmafoundation.org
+2024-04-01,Bhopal,Madhya Pradesh,38080,4047,427,Books,pari.gade@yahoo.com
+2021-07-01,Chennai,Tamil Nadu,75700,7071,416,Grocery,miraya.bhatti@yahoo.com
+2021-02-01,Bengaluru,Karnataka,67313,3646,323,Clothing,aarna.dewan@renusharmafoundation.org
+2021-08-01,Ahmedabad,Gujarat,51174,6138,443,Clothing,rhea.dayal@gmail.com
+2023-11-01,Lucknow,Uttar Pradesh,44072,3405,428,Clothing,hansh.atwal@yahoo.com
+2022-12-01,Jaipur,Rajasthan,36764,2499,187,Books,divij.chanda@yahoo.com
+2024-04-01,Mumbai,Maharashtra,68373,4270,304,Grocery,hazel.ben@renusharmafoundation.org
+2022-05-01,Chennai,Tamil Nadu,54153,5192,85,Electronics,tushar.sant@gmail.com
+2024-08-01,Mumbai,Maharashtra,64650,7750,464,Grocery,hazel.ramachandran@yahoo.com
+2021-08-01,Bengaluru,Karnataka,48481,6514,77,Home Decor,lakshit.dalal@gmail.com
+2024-10-01,Chennai,Tamil Nadu,34510,4276,337,Clothing,saira.khatri@gmail.com
+2023-09-01,Kolkata,West Bengal,38632,2433,442,Books,jayan.sekhon@yahoo.com
+2022-06-01,Ahmedabad,Gujarat,45454,3770,149,Home Decor,urvi.baral@renusharmafoundation.org
+2022-10-01,Delhi,Delhi,23335,2543,376,Books,nitara.dhaliwal@renusharmafoundation.org
+2022-05-01,Bhopal,Madhya Pradesh,64251,3613,330,Electronics,taimur.manne@gmail.com
+2024-03-01,Kolkata,West Bengal,52970,6865,166,Grocery,mehul.grover@yahoo.com
+2021-03-01,Bhopal,Madhya Pradesh,47846,4039,192,Grocery,amani.ramaswamy@gmail.com
+2023-01-01,Bengaluru,Karnataka,58678,4149,387,Grocery,nayantara.bhatt@gmail.com
+2022-07-01,Kolkata,West Bengal,47755,6936,96,Clothing,bhavin.subramaniam@gmail.com
+2024-01-01,Chennai,Tamil Nadu,56615,6148,68,Books,ehsaan.kala@gmail.com
+2024-06-01,Bhopal,Madhya Pradesh,28746,2805,224,Grocery,gatik.shenoy@yahoo.com
+2022-05-01,Jaipur,Rajasthan,69468,6397,315,Home Decor,bhamini.bal@gmail.com
+2023-10-01,Hyderabad,Telangana,68976,9450,277,Home Decor,vivaan.brahmbhatt@yahoo.com
+2021-02-01,Kolkata,West Bengal,55851,5490,370,Books,kartik.gola@gmail.com
+2021-09-01,Mumbai,Maharashtra,39619,3596,387,Grocery,yasmin.chokshi@gmail.com
+2023-02-01,Chennai,Tamil Nadu,46660,3273,407,Books,taimur.subramanian@yahoo.com
+2021-06-01,Bengaluru,Karnataka,25746,2137,480,Clothing,nehmat.roy@gmail.com
+2024-02-01,Jaipur,Rajasthan,35661,4694,339,Clothing,heer.chakraborty@yahoo.com
+2022-05-01,Bhopal,Madhya Pradesh,35833,5139,69,Books,siya.sarna@yahoo.com
+2024-08-01,Bhopal,Madhya Pradesh,46923,4182,411,Home Decor,piya.gandhi@yahoo.com
+2022-12-01,Kolkata,West Bengal,40485,4933,223,Home Decor,pranay.khanna@gmail.com
+2024-01-01,Jaipur,Rajasthan,45854,5936,330,Electronics,anahita.goel@renusharmafoundation.org
+2023-06-01,Hyderabad,Telangana,63034,8865,319,Electronics,aarush.din@renusharmafoundation.org
+2022-01-01,Mumbai,Maharashtra,36669,5224,101,Home Decor,nishith.walla@gmail.com
+2024-12-01,Delhi,Delhi,47831,5852,309,Books,indranil.savant@gmail.com
+2021-12-01,Bengaluru,Karnataka,62004,6521,178,Home Decor,urvi.brahmbhatt@gmail.com
+2022-03-01,Lucknow,Uttar Pradesh,46663,4218,298,Books,samar.garg@renusharmafoundation.org
+2021-02-01,Lucknow,Uttar Pradesh,50686,3521,144,Electronics,ira.amble@yahoo.com
+2023-01-01,Hyderabad,Telangana,42398,5985,357,Clothing,biju.hans@yahoo.com
+2022-09-01,Kolkata,West Bengal,33262,4915,384,Grocery,mishti.sridhar@gmail.com
+2021-04-01,Jaipur,Rajasthan,46106,4182,369,Grocery,jiya.bhatnagar@yahoo.com
+2021-07-01,Bhopal,Madhya Pradesh,51461,6878,91,Grocery,dharmajan.gour@yahoo.com
+2023-03-01,Delhi,Delhi,41012,3443,442,Grocery,hunar.buch@yahoo.com
+2021-03-01,Kolkata,West Bengal,43076,2654,51,Grocery,taimur.rajagopal@renusharmafoundation.org
+2021-10-01,Ahmedabad,Gujarat,38788,4788,65,Books,biju.sane@yahoo.com
+2024-12-01,Mumbai,Maharashtra,37082,1881,238,Electronics,madhup.banik@renusharmafoundation.org
+2024-01-01,Chennai,Tamil Nadu,69141,6250,270,Grocery,adira.soni@yahoo.com
+2022-02-01,Lucknow,Uttar Pradesh,43035,4932,237,Electronics,mehul.sidhu@gmail.com
+2022-04-01,Ahmedabad,Gujarat,25972,3382,268,Home Decor,kimaya.gola@gmail.com
+2023-07-01,Hyderabad,Telangana,56002,4805,161,Home Decor,aaina.bahri@gmail.com
+2021-08-01,Ahmedabad,Gujarat,50579,4268,241,Home Decor,pihu.tailor@renusharmafoundation.org
+2022-04-01,Bengaluru,Karnataka,16406,1565,96,Home Decor,kaira.lal@yahoo.com
+2024-08-01,Hyderabad,Telangana,44114,3296,102,Books,madhup.sunder@renusharmafoundation.org
+2022-10-01,Ahmedabad,Gujarat,57217,7281,495,Home Decor,gokul.singhal@gmail.com
+2021-03-01,Jaipur,Rajasthan,54186,6003,447,Clothing,nirvaan.dani@gmail.com
+2022-12-01,Hyderabad,Telangana,54672,8016,220,Grocery,indrans.gandhi@gmail.com
+2023-06-01,Jaipur,Rajasthan,68454,8499,221,Electronics,jiya.choudhry@renusharmafoundation.org
+2021-09-01,Delhi,Delhi,28326,1420,337,Electronics,reyansh.manne@gmail.com
+2023-11-01,Lucknow,Uttar Pradesh,61950,6683,77,Clothing,indrans.shukla@gmail.com
+2022-02-01,Jaipur,Rajasthan,39426,5286,415,Books,dhanuk.bir@yahoo.com
+2021-01-01,Chennai,Tamil Nadu,32313,4505,471,Clothing,akarsh.bhasin@renusharmafoundation.org
+2024-11-01,Kolkata,West Bengal,88916,8217,297,Grocery,nishith.mangal@renusharmafoundation.org
+2022-08-01,Jaipur,Rajasthan,43973,3672,401,Clothing,hrishita.sanghvi@gmail.com
+2023-02-01,Jaipur,Rajasthan,55646,3216,87,Clothing,pranay.gola@yahoo.com
+2022-06-01,Mumbai,Maharashtra,45644,4576,309,Clothing,charvi.mane@renusharmafoundation.org
+2022-08-01,Bengaluru,Karnataka,44524,2352,108,Clothing,renee.kashyap@renusharmafoundation.org
+2024-03-01,Ahmedabad,Gujarat,53985,3645,162,Home Decor,nitara.kakar@gmail.com
+2021-01-01,Delhi,Delhi,50884,7091,235,Home Decor,jivika.kakar@yahoo.com
+2023-08-01,Bengaluru,Karnataka,40292,5087,283,Electronics,manikya.yogi@renusharmafoundation.org
+2024-12-01,Bengaluru,Karnataka,50344,3589,168,Electronics,vivaan.sen@gmail.com
+2021-04-01,Bhopal,Madhya Pradesh,61590,6120,58,Electronics,taimur.mangat@renusharmafoundation.org
+2024-07-01,Mumbai,Maharashtra,45399,4179,106,Home Decor,tanya.dugar@renusharmafoundation.org
+2023-07-01,Mumbai,Maharashtra,55986,8220,128,Home Decor,madhup.de@renusharmafoundation.org
+2024-02-01,Hyderabad,Telangana,55653,4816,444,Electronics,krish.sawhney@renusharmafoundation.org
+2021-06-01,Bengaluru,Karnataka,80316,9661,379,Home Decor,riaan.grewal@renusharmafoundation.org
+2021-09-01,Hyderabad,Telangana,42338,4884,468,Grocery,yasmin.hans@gmail.com
+2021-03-01,Kolkata,West Bengal,56992,6484,168,Books,azad.chandran@gmail.com
+2022-11-01,Bengaluru,Karnataka,59179,8307,63,Home Decor,sana.sarma@renusharmafoundation.org
+2023-10-01,Mumbai,Maharashtra,78247,10645,146,Electronics,tushar.thaman@yahoo.com
+2024-04-01,Kolkata,West Bengal,11705,720,350,Grocery,adira.dugar@gmail.com
+2021-06-01,Jaipur,Rajasthan,45622,5293,217,Grocery,arnav.kibe@renusharmafoundation.org
+2024-11-01,Jaipur,Rajasthan,60268,5791,483,Clothing,zeeshan.aurora@gmail.com
+2021-04-01,Bengaluru,Karnataka,28671,1734,179,Home Decor,mohanlal.goel@yahoo.com
+2021-04-01,Ahmedabad,Gujarat,57849,4100,211,Clothing,kiaan.vohra@yahoo.com
+2024-03-01,Kolkata,West Bengal,73145,7980,372,Books,aarav.tata@gmail.com
+2021-10-01,Bengaluru,Karnataka,72411,10307,481,Electronics,devansh.yogi@renusharmafoundation.org
+2022-08-01,Mumbai,Maharashtra,37803,3414,218,Grocery,indrajit.bahl@yahoo.com
+2024-07-01,Jaipur,Rajasthan,54118,3446,336,Clothing,eva.krishnamurthy@gmail.com
+2024-03-01,Bengaluru,Karnataka,32479,2929,147,Grocery,mahika.sachar@yahoo.com
+2024-12-01,Jaipur,Rajasthan,43193,6397,420,Electronics,lakshay.virk@yahoo.com
+2021-02-01,Bengaluru,Karnataka,20956,1999,185,Clothing,ela.dhillon@yahoo.com
+2022-01-01,Bhopal,Madhya Pradesh,49331,3257,53,Grocery,piya.verma@gmail.com
+2024-09-01,Jaipur,Rajasthan,43911,2927,102,Grocery,dharmajan.tara@yahoo.com
+2023-09-01,Bengaluru,Karnataka,42997,2753,355,Home Decor,sana.yohannan@renusharmafoundation.org
+2023-10-01,Jaipur,Rajasthan,69787,7033,70,Home Decor,ritvik.keer@yahoo.com
+2024-06-01,Lucknow,Uttar Pradesh,56425,5611,379,Books,kabir.chandra@renusharmafoundation.org
+2024-11-01,Hyderabad,Telangana,44313,5752,204,Books,sara.kale@gmail.com
+2024-05-01,Lucknow,Uttar Pradesh,35341,4994,332,Books,romil.khare@yahoo.com
+2022-09-01,Lucknow,Uttar Pradesh,34100,2715,374,Electronics,parinaaz.wali@yahoo.com
+2022-12-01,Bhopal,Madhya Pradesh,49076,3237,486,Home Decor,indrajit.vig@gmail.com
+2024-01-01,Mumbai,Maharashtra,53411,6282,239,Grocery,indranil.mann@gmail.com
+2021-01-01,Ahmedabad,Gujarat,56049,7138,186,Clothing,eshani.ghose@renusharmafoundation.org
+2023-05-01,Bengaluru,Karnataka,66996,4459,288,Grocery,hunar.kapur@renusharmafoundation.org
+2023-09-01,Mumbai,Maharashtra,49979,6463,124,Grocery,heer.kari@yahoo.com
+2022-08-01,Jaipur,Rajasthan,50677,4794,158,Books,rasha.wable@gmail.com
+2022-02-01,Jaipur,Rajasthan,25792,1326,436,Electronics,yasmin.ramachandran@renusharmafoundation.org
+2024-01-01,Bengaluru,Karnataka,76038,11340,75,Electronics,trisha.lata@yahoo.com
+2021-01-01,Delhi,Delhi,42387,4701,129,Books,inaaya .dugar@gmail.com
+2023-01-01,Mumbai,Maharashtra,71500,9571,143,Clothing,aarav.guha@gmail.com
+2024-05-01,Jaipur,Rajasthan,44132,6289,182,Home Decor,riaan.sampath@renusharmafoundation.org
+2021-04-01,Bhopal,Madhya Pradesh,39984,3831,340,Clothing,arhaan.datta@yahoo.com
+2023-04-01,Ahmedabad,Gujarat,60200,7461,473,Clothing,tarini.chauhan@gmail.com
+2021-01-01,Mumbai,Maharashtra,32786,1862,393,Home Decor,akarsh.chand@yahoo.com
+2021-02-01,Ahmedabad,Gujarat,50316,4374,226,Home Decor,jayan.balay@gmail.com
+2023-05-01,Jaipur,Rajasthan,57222,3581,54,Books,aayush.biswas@renusharmafoundation.org
+2023-09-01,Kolkata,West Bengal,42940,3495,371,Books,vidur.kala@renusharmafoundation.org
+2021-10-01,Jaipur,Rajasthan,46957,4418,197,Clothing,umang.mander@renusharmafoundation.org
+2023-01-01,Ahmedabad,Gujarat,43952,2471,378,Clothing,rasha.choudhary@gmail.com
+2021-11-01,Chennai,Tamil Nadu,60477,5388,452,Grocery,manjari.kaul@renusharmafoundation.org
+2022-11-01,Bhopal,Madhya Pradesh,54758,3627,435,Books,ivana.dugar@yahoo.com
+2022-04-01,Hyderabad,Telangana,45466,4847,96,Clothing,ivana.choudhry@renusharmafoundation.org
+2022-12-01,Delhi,Delhi,47024,3404,347,Electronics,myra.bhargava@gmail.com
+2024-02-01,Kolkata,West Bengal,42352,2564,150,Home Decor,lakshay.singh@renusharmafoundation.org
+2024-04-01,Bhopal,Madhya Pradesh,66420,7828,238,Books,ishita.krishnan@gmail.com
+2024-06-01,Kolkata,West Bengal,55467,2919,334,Books,jivika.savant@gmail.com
+2023-04-01,Bhopal,Madhya Pradesh,85711,11117,204,Books,sara.mandal@gmail.com
+2024-08-01,Kolkata,West Bengal,48878,7282,94,Home Decor,shaan.sarma@renusharmafoundation.org
+2023-11-01,Hyderabad,Telangana,44542,2990,280,Books,shalv.handa@gmail.com
+2024-06-01,Bengaluru,Karnataka,15671,1410,497,Home Decor,nishith.kapadia@yahoo.com
+2022-12-01,Mumbai,Maharashtra,42785,3617,371,Grocery,pihu.kakar@yahoo.com
+2022-09-01,Delhi,Delhi,56681,6477,240,Books,vidur.sethi@renusharmafoundation.org
+2024-05-01,Kolkata,West Bengal,69896,10127,79,Books,rasha.samra@yahoo.com
+2023-09-01,Kolkata,West Bengal,56787,4337,466,Home Decor,ayesha.choudhary@renusharmafoundation.org
+2022-04-01,Delhi,Delhi,34321,2664,362,Grocery,taran.mahajan@yahoo.com
+2024-05-01,Delhi,Delhi,82449,4628,173,Electronics,vivaan.ratti@gmail.com
+2022-01-01,Lucknow,Uttar Pradesh,34272,4108,131,Clothing,divij.baria@gmail.com
+2022-11-01,Bengaluru,Karnataka,54959,3712,165,Clothing,taimur.contractor@gmail.com
+2021-04-01,Chennai,Tamil Nadu,36683,4727,131,Clothing,shamik.dara@yahoo.com
+2021-03-01,Bengaluru,Karnataka,43909,3779,395,Grocery,onkar.shenoy@renusharmafoundation.org
+2022-03-01,Ahmedabad,Gujarat,50597,6683,341,Books,mamooty.sachdeva@yahoo.com
+2023-01-01,Bhopal,Madhya Pradesh,61504,3435,232,Clothing,divit.toor@yahoo.com
+2024-06-01,Mumbai,Maharashtra,53384,5023,108,Electronics,mohanlal.master@gmail.com
+2022-06-01,Mumbai,Maharashtra,52459,5891,345,Grocery,rania.krishna@renusharmafoundation.org
+2021-11-01,Jaipur,Rajasthan,49635,6169,479,Home Decor,shray.bhandari@gmail.com
+2023-08-01,Ahmedabad,Gujarat,76788,4692,80,Home Decor,mahika.thakur@renusharmafoundation.org
+2021-07-01,Bengaluru,Karnataka,39728,5914,299,Clothing,nayantara.sarma@renusharmafoundation.org
+2024-08-01,Delhi,Delhi,67091,4708,304,Books,aaina.mann@yahoo.com
+2021-08-01,Hyderabad,Telangana,43473,4600,402,Clothing,parinaaz.buch@renusharmafoundation.org
+2024-06-01,Mumbai,Maharashtra,72040,5771,273,Clothing,vardaniya.sami@gmail.com
+2021-02-01,Bhopal,Madhya Pradesh,36516,3893,256,Books,indrajit.rana@renusharmafoundation.org
+2022-01-01,Hyderabad,Telangana,48005,6283,110,Grocery,nishith.garg@renusharmafoundation.org
+2022-04-01,Hyderabad,Telangana,48880,6661,272,Grocery,yuvraj .sampath@yahoo.com
+2021-12-01,Bhopal,Madhya Pradesh,57816,7593,153,Grocery,rati.kothari@yahoo.com
+2023-10-01,Hyderabad,Telangana,59133,5155,61,Home Decor,amira.gulati@renusharmafoundation.org
+2021-07-01,Hyderabad,Telangana,50305,4755,375,Grocery,anay.goel@gmail.com
+2024-04-01,Delhi,Delhi,49367,2971,476,Home Decor,alia.gandhi@yahoo.com
+2021-11-01,Mumbai,Maharashtra,53787,5365,496,Home Decor,krish.dass@renusharmafoundation.org
+2021-04-01,Delhi,Delhi,54781,7763,261,Books,indranil.kapoor@yahoo.com
+2023-03-01,Jaipur,Rajasthan,33727,4860,65,Home Decor,abram.edwin@yahoo.com
+2021-03-01,Bhopal,Madhya Pradesh,44230,2345,413,Home Decor,hiran.mammen@gmail.com
+2023-02-01,Lucknow,Uttar Pradesh,51415,4291,309,Books,abram.sibal@gmail.com
+2023-05-01,Bengaluru,Karnataka,20723,2496,342,Electronics,rhea.borah@renusharmafoundation.org
+2021-09-01,Jaipur,Rajasthan,33434,4603,129,Clothing,saksham.agarwal@renusharmafoundation.org
+2022-03-01,Delhi,Delhi,50477,5268,257,Grocery,yuvraj .yogi@renusharmafoundation.org
+2021-09-01,Bengaluru,Karnataka,46487,6396,182,Books,divij.sane@yahoo.com
+2023-10-01,Jaipur,Rajasthan,37396,3852,485,Electronics,aarush.banerjee@gmail.com
+2021-12-01,Hyderabad,Telangana,50949,5245,82,Clothing,shamik.ganguly@renusharmafoundation.org
+2024-03-01,Chennai,Tamil Nadu,53080,7452,399,Home Decor,pari.hayer@yahoo.com
+2023-04-01,Jaipur,Rajasthan,35834,3365,275,Grocery,drishya.sheth@gmail.com
+2022-10-01,Bengaluru,Karnataka,74872,8445,219,Home Decor,samar.taneja@renusharmafoundation.org
+2023-10-01,Jaipur,Rajasthan,50842,3296,181,Home Decor,aradhya.raj@gmail.com
+2022-12-01,Lucknow,Uttar Pradesh,57408,4662,431,Electronics,rati.kaur@gmail.com
+2021-03-01,Delhi,Delhi,59829,6370,112,Books,onkar.bhavsar@yahoo.com
+2023-03-01,Ahmedabad,Gujarat,50129,4334,104,Electronics,navya.sarma@renusharmafoundation.org
+2022-01-01,Mumbai,Maharashtra,56942,7117,81,Books,renee.lala@gmail.com
+2022-09-01,Ahmedabad,Gujarat,53881,6699,480,Clothing,hridaan.rajan@gmail.com
+2021-03-01,Bhopal,Madhya Pradesh,63429,6364,162,Clothing,oorja.bahri@yahoo.com
+2022-12-01,Delhi,Delhi,64046,8919,471,Books,armaan.mand@renusharmafoundation.org
+2021-08-01,Hyderabad,Telangana,58089,7369,372,Grocery,jayant.ahuja@renusharmafoundation.org
+2021-02-01,Jaipur,Rajasthan,56746,5634,464,Books,zain.wagle@renusharmafoundation.org
+2021-07-01,Lucknow,Uttar Pradesh,35433,4804,456,Electronics,anay.ramakrishnan@gmail.com
+2023-12-01,Hyderabad,Telangana,54904,6383,427,Electronics,pihu.sangha@yahoo.com
+2022-08-01,Mumbai,Maharashtra,71814,7550,411,Electronics,yasmin.dass@renusharmafoundation.org
+2022-12-01,Ahmedabad,Gujarat,44373,5481,230,Home Decor,amani.char@yahoo.com
+2024-10-01,Bengaluru,Karnataka,52637,7213,285,Clothing,ehsaan.shenoy@yahoo.com
+2021-03-01,Ahmedabad,Gujarat,43386,4841,187,Electronics,romil.som@renusharmafoundation.org
+2021-02-01,Bhopal,Madhya Pradesh,85200,7506,463,Home Decor,mohanlal.hari@renusharmafoundation.org
+2024-02-01,Jaipur,Rajasthan,43089,4720,410,Home Decor,vardaniya.brahmbhatt@gmail.com
+2021-03-01,Kolkata,West Bengal,38578,2255,57,Grocery,onkar.yohannan@gmail.com
+2024-04-01,Bengaluru,Karnataka,48711,5316,258,Home Decor,shamik.khalsa@renusharmafoundation.org
+2022-06-01,Chennai,Tamil Nadu,60866,7725,306,Grocery,ela.garg@renusharmafoundation.org
+2024-11-01,Ahmedabad,Gujarat,40048,2884,150,Books,nehmat.baria@gmail.com
+2021-12-01,Mumbai,Maharashtra,33801,2919,430,Clothing,kartik.sarkar@gmail.com
+2024-02-01,Lucknow,Uttar Pradesh,63978,5976,374,Home Decor,badal.bedi@yahoo.com
+2023-01-01,Chennai,Tamil Nadu,59077,8129,267,Electronics,renee.khanna@gmail.com
+2024-10-01,Chennai,Tamil Nadu,46431,5955,455,Clothing,miraya.badami@gmail.com
+2021-12-01,Ahmedabad,Gujarat,41281,2885,351,Electronics,mehul.magar@yahoo.com
+2022-07-01,Kolkata,West Bengal,44810,5044,215,Books,lakshay.guha@yahoo.com
+2021-04-01,Bhopal,Madhya Pradesh,62353,7684,127,Grocery,divyansh.khanna@gmail.com
+2021-09-01,Hyderabad,Telangana,64681,8123,366,Grocery,pranay.kumer@renusharmafoundation.org
+2022-04-01,Bhopal,Madhya Pradesh,54696,7381,397,Home Decor,anaya.mammen@yahoo.com
+2024-03-01,Bhopal,Madhya Pradesh,32897,4045,415,Grocery,armaan.dugar@gmail.com
+2024-11-01,Kolkata,West Bengal,66504,3463,148,Clothing,tanya.chaudry@renusharmafoundation.org
+2021-09-01,Ahmedabad,Gujarat,44462,6191,160,Books,raghav.kara@yahoo.com
+2022-06-01,Bengaluru,Karnataka,44699,5457,228,Home Decor,mohanlal.barad@gmail.com
+2022-03-01,Bengaluru,Karnataka,39429,3107,152,Books,siya.kala@renusharmafoundation.org
+2024-02-01,Ahmedabad,Gujarat,41460,3737,306,Grocery,aarav.chaudry@renusharmafoundation.org
+2024-11-01,Lucknow,Uttar Pradesh,50742,5037,57,Clothing,biju.ramaswamy@yahoo.com
+2023-01-01,Ahmedabad,Gujarat,65434,9811,473,Clothing,aayush.karpe@yahoo.com
+2023-10-01,Ahmedabad,Gujarat,58339,5675,132,Clothing,advik.ganguly@gmail.com
+2024-08-01,Chennai,Tamil Nadu,42286,2493,91,Electronics,rohan.bhandari@renusharmafoundation.org
+2023-03-01,Mumbai,Maharashtra,42176,2983,96,Electronics,zara.tailor@renusharmafoundation.org
+2023-10-01,Lucknow,Uttar Pradesh,36213,2635,312,Books,hazel.suri@yahoo.com
+2021-01-01,Bengaluru,Karnataka,61662,5561,397,Books,hrishita.chaudry@yahoo.com
+2022-09-01,Bengaluru,Karnataka,71526,5099,456,Books,ryan.kumer@gmail.com
+2022-05-01,Hyderabad,Telangana,35788,1820,251,Clothing,himmat.khosla@gmail.com
+2022-01-01,Ahmedabad,Gujarat,24677,1277,371,Home Decor,yuvaan.ganguly@renusharmafoundation.org
+2024-07-01,Jaipur,Rajasthan,34729,3759,219,Home Decor,tiya.rau@gmail.com
+2021-03-01,Mumbai,Maharashtra,77341,8792,156,Books,diya.wason@renusharmafoundation.org
+2023-12-01,Delhi,Delhi,51326,6395,405,Books,riya.sane@yahoo.com
+2024-02-01,Mumbai,Maharashtra,64047,7277,453,Grocery,anay.tak@yahoo.com
+2022-06-01,Bengaluru,Karnataka,60224,8639,213,Books,aarav.wagle@gmail.com
+2021-12-01,Bengaluru,Karnataka,52750,3249,300,Books,ehsaan.raman@renusharmafoundation.org
+2023-02-01,Chennai,Tamil Nadu,35318,4184,492,Electronics,devansh.bhatti@renusharmafoundation.org
+2022-04-01,Jaipur,Rajasthan,62218,3615,100,Clothing,aaryahi.walla@gmail.com
+2023-05-01,Delhi,Delhi,48257,5693,135,Electronics,gokul.warrior@renusharmafoundation.org
+2022-05-01,Bengaluru,Karnataka,53421,7901,325,Grocery,rasha.dugal@renusharmafoundation.org
+2022-01-01,Jaipur,Rajasthan,62961,5922,315,Clothing,elakshi.bhavsar@gmail.com
+2024-03-01,Lucknow,Uttar Pradesh,54554,2991,274,Grocery,ryan.anand@gmail.com
+2024-10-01,Ahmedabad,Gujarat,36008,2013,219,Clothing,sahil.ahuja@gmail.com
+2023-12-01,Bengaluru,Karnataka,59525,6954,231,Books,seher.bajaj@renusharmafoundation.org
+2021-07-01,Hyderabad,Telangana,26876,3926,335,Electronics,sana.shah@gmail.com
+2022-03-01,Lucknow,Uttar Pradesh,41712,5270,341,Books,mahika.rajagopal@renusharmafoundation.org
+2024-08-01,Hyderabad,Telangana,44190,3797,374,Home Decor,hridaan.suri@gmail.com
+2024-02-01,Delhi,Delhi,30224,2070,350,Electronics,manjari.barad@renusharmafoundation.org
+2022-12-01,Mumbai,Maharashtra,63433,3217,208,Electronics,madhav.ganguly@gmail.com
+2024-12-01,Bengaluru,Karnataka,44788,4999,154,Electronics,charvi.sidhu@gmail.com
+2023-09-01,Ahmedabad,Gujarat,87458,11926,495,Home Decor,dhanush.dayal@renusharmafoundation.org
+2021-07-01,Mumbai,Maharashtra,24106,2557,296,Books,dhanush.yadav@yahoo.com
+2021-02-01,Chennai,Tamil Nadu,59804,7365,109,Clothing,manjari.reddy@yahoo.com
+2021-09-01,Mumbai,Maharashtra,50782,6424,450,Books,lakshit.amble@renusharmafoundation.org
+2022-05-01,Hyderabad,Telangana,41040,4259,333,Grocery,shayak.sridhar@yahoo.com
+2022-11-01,Jaipur,Rajasthan,73892,8524,395,Electronics,anay.issac@renusharmafoundation.org
+2022-10-01,Chennai,Tamil Nadu,53572,3916,62,Home Decor,raunak.solanki@yahoo.com
+2022-04-01,Bengaluru,Karnataka,46498,5851,115,Home Decor,vritika.kapoor@renusharmafoundation.org
+2021-07-01,Hyderabad,Telangana,60516,6388,90,Grocery,chirag.gola@renusharmafoundation.org
+2023-03-01,Ahmedabad,Gujarat,76461,4133,311,Books,veer.sibal@yahoo.com
+2024-04-01,Delhi,Delhi,60373,4460,284,Home Decor,indrans.chacko@gmail.com
+2024-10-01,Jaipur,Rajasthan,37929,2002,191,Grocery,shanaya.sarkar@renusharmafoundation.org
+2022-06-01,Bengaluru,Karnataka,75064,11003,468,Clothing,dharmajan.sundaram@gmail.com
+2021-12-01,Hyderabad,Telangana,79969,4487,343,Grocery,mishti.sarma@gmail.com
+2022-01-01,Mumbai,Maharashtra,72417,4812,83,Books,anvi.setty@renusharmafoundation.org
+2021-06-01,Hyderabad,Telangana,40153,4323,101,Clothing,heer.kurian@renusharmafoundation.org
+2024-08-01,Kolkata,West Bengal,30402,1880,487,Books,renee.shenoy@yahoo.com
+2021-06-01,Bengaluru,Karnataka,52588,3363,330,Clothing,jayant.lanka@yahoo.com
+2023-06-01,Chennai,Tamil Nadu,60084,5049,317,Clothing,eva.dass@yahoo.com
+2024-05-01,Bhopal,Madhya Pradesh,50320,4743,368,Grocery,prerak.loke@gmail.com
+2023-10-01,Chennai,Tamil Nadu,48278,3309,119,Home Decor,mohanlal.sunder@gmail.com
+2023-06-01,Bhopal,Madhya Pradesh,52324,2822,101,Books,mishti.acharya@gmail.com
+2023-09-01,Ahmedabad,Gujarat,60147,3789,370,Home Decor,vedika.kala@gmail.com
+2022-11-01,Jaipur,Rajasthan,78013,6615,55,Clothing,divyansh.tiwari@yahoo.com
+2024-05-01,Chennai,Tamil Nadu,56241,4806,408,Books,taran.hora@gmail.com
+2023-10-01,Mumbai,Maharashtra,63512,8694,70,Electronics,kanav.dara@gmail.com
+2024-06-01,Ahmedabad,Gujarat,61336,8371,477,Electronics,samarth.kota@yahoo.com
+2021-09-01,Jaipur,Rajasthan,39748,3524,236,Electronics,aaina.barad@yahoo.com
+2021-09-01,Bhopal,Madhya Pradesh,58150,3099,261,Books,lagan.raj@yahoo.com
+2021-11-01,Bengaluru,Karnataka,47370,4013,497,Home Decor,pihu.chatterjee@renusharmafoundation.org
+2021-03-01,Jaipur,Rajasthan,60847,5443,467,Grocery,himmat.walla@gmail.com
+2024-08-01,Ahmedabad,Gujarat,52227,5499,141,Clothing,jayesh.dasgupta@gmail.com
+2022-05-01,Mumbai,Maharashtra,65720,6181,217,Books,raunak.viswanathan@renusharmafoundation.org
+2023-12-01,Bengaluru,Karnataka,47994,5047,89,Home Decor,yasmin.basak@gmail.com
+2023-12-01,Bhopal,Madhya Pradesh,35217,1810,303,Electronics,vedika.chandra@renusharmafoundation.org
+2022-05-01,Hyderabad,Telangana,15191,1856,242,Home Decor,advika.bhargava@renusharmafoundation.org
+2024-10-01,Ahmedabad,Gujarat,47730,6323,392,Electronics,madhav.krishnan@renusharmafoundation.org
+2023-05-01,Mumbai,Maharashtra,56078,7284,69,Electronics,miraan.kulkarni@yahoo.com
+2022-10-01,Hyderabad,Telangana,27922,1780,100,Home Decor,armaan.srinivas@renusharmafoundation.org
+2023-10-01,Mumbai,Maharashtra,47140,4363,380,Grocery,miraya.bhatti@renusharmafoundation.org
+2023-12-01,Hyderabad,Telangana,38261,4648,361,Books,kavya.dube@yahoo.com
+2021-09-01,Bengaluru,Karnataka,69875,8560,327,Books,myra.rattan@gmail.com
+2023-10-01,Ahmedabad,Gujarat,72324,7250,343,Electronics,renee.choudhary@renusharmafoundation.org
+2021-06-01,Bhopal,Madhya Pradesh,35592,2067,274,Books,rohan.ray@yahoo.com
+2024-04-01,Ahmedabad,Gujarat,72992,4390,183,Electronics,yakshit.savant@gmail.com
+2021-04-01,Lucknow,Uttar Pradesh,53364,3026,178,Clothing,zaina.karan@yahoo.com
+2021-08-01,Mumbai,Maharashtra,33844,3504,124,Grocery,ojas.garde@yahoo.com
+2023-11-01,Ahmedabad,Gujarat,52990,2940,478,Books,hansh.rama@renusharmafoundation.org
+2023-07-01,Bhopal,Madhya Pradesh,52423,4078,52,Books,sumer.ramakrishnan@yahoo.com
+2021-04-01,Chennai,Tamil Nadu,44607,3604,488,Home Decor,hansh.vora@renusharmafoundation.org
+2022-01-01,Jaipur,Rajasthan,50289,3114,437,Grocery,shalv.seth@yahoo.com
+2022-07-01,Mumbai,Maharashtra,38694,2925,79,Electronics,rania.kota@yahoo.com
+2021-02-01,Ahmedabad,Gujarat,48342,4441,340,Grocery,onkar.chawla@renusharmafoundation.org
+2024-02-01,Lucknow,Uttar Pradesh,47301,3470,492,Electronics,aaryahi.tandon@renusharmafoundation.org
+2022-11-01,Bengaluru,Karnataka,46409,3768,382,Grocery,yasmin.sule@renusharmafoundation.org
+2021-11-01,Bengaluru,Karnataka,79339,5352,131,Clothing,ivan.kale@renusharmafoundation.org
+2023-12-01,Jaipur,Rajasthan,40216,3639,441,Books,ayesha.walia@gmail.com
+2021-04-01,Jaipur,Rajasthan,53224,6928,300,Grocery,aniruddh.karan@gmail.com
+2021-07-01,Lucknow,Uttar Pradesh,62665,6933,93,Grocery,rati.mander@yahoo.com
+2022-06-01,Mumbai,Maharashtra,62953,4073,149,Clothing,ivana.sant@gmail.com
